@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Sentometrics Research</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>A Century of Economic Policy Uncertainty Through the French-Canadian Lens</title>
+      <link>/post/epu-quebec/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/epu-quebec/</guid>
+      <description>&lt;p&gt;Leveraging a historical French-Canadian newspaper data set provided by the Bibliothèque et Archives Nationales du Québec (BAnQ)
+as well as a research collaboration with Radio-Canada, we have developed a century-long historical Economic Policy Uncertainty (EPU) index for the Canadian province of Quebec.
+In addition to providing a long historical view of the Quebec economy via the EPU,
+this index complements the already available Canadian EPU by focusing on French-Canadian sources, which were notably a missing component of the index.&lt;/p&gt;
+&lt;p&gt;When looking over our 100-year time horizon, three peaks are particularly large: (i)
+the Great Depression, (ii) the 2008 financial crisis, and (iii) the COVID-19 pandemic.
+Moreover, the index tends to be higher post-war and during some other events such as
+the patriation of the Canadian constitution in 1982 (a national event) or the Oka crisis in
+1990 (a Quebec-specific event). More events are annotated in the figure.&lt;/p&gt;
+&lt;p&gt;Our data set and the historical aspect of our index raise some challenges. First, the archives of several news sources are grouped by issue rather than by individual articles,
+which renders the standard EPU count impossible. Second, archives&#39; availability for particular media sources differs over time, making the static-window standardization
+used in the traditional sources’ aggregation biased. As such, we propose a novel token-distance-based triple approach to identify EPU mentions in
+textual documents and use a dynamic normalization for the sources’ aggregation to address these problems.&lt;/p&gt;
+&lt;p&gt;In the note accompanying the index, we show that our index outperforms the existing Canadian EPU when
+nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A Century of Economic Policy Uncertainty Through the French-Canadian Lens&lt;/strong&gt;.  
+&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3773702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/epu-quebec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media Climate Change Concerns Index</title>
+      <link>/post/climate-change/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/climate-change/</guid>
+      <description>
+
+
+&lt;p&gt;Many consider climate change as one of the biggest challenges of our times. However, there is disagreement on the magnitude of the climate change problem and how to solve it. Conditional on their view on the issue, some people may have a high preference for sustainable solutions and investments tackling the climate change problem, while others may not. Moreover, these preferences can evolve on the arrival of new information. In general, preference for sustainable solutions is largely a function of how concerned people are about climate change.&lt;/p&gt;
+&lt;p&gt;Discerning concerns about climate change in almost real-time can be useful for many applications, particularly asset pricing. The theoretical model proposed by &lt;a href=&#34;https://www.nber.org/papers/w26549&#34;&gt;Pastor et al. (2020)&lt;/a&gt; implies that the returns of green stocks vs. the returns of brown stocks are a function of the unexpected changes in climate change concerns. In particular, when there is an unexpected increase in climate change concerns, green stocks outperform brown stocks.&lt;/p&gt;
+&lt;p&gt;However, an issue is that the level of concern about climate change cannot be observed and needs to be proxied. This fact renders the analysis of the dynamics of climate change concerns more complicated than the analysis of observable macroeconomic variables such as GDP growth. Here, we propose an index derived from major U.S newspapers to proxy for change in climate change concerns. Our corpus, or set of news articles, about climate change to derive this index can be summarized in multiple topics and themes, for which the most representative words are shown below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;topics.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;To build our indices, we first propose a concern score: A combination of the level of risk and the sentiment expressed in news media articles. We then compute the concerns score for all news articles about climate change in the corpus. Finally, we aggregate those concerns score into a daily index. We explicitly consider the news media’s attention to climate change during the news articles’ concerns score aggregation process. Indeed, there is a higher probability of the true change in climate change concerns when there is both concerning news articles and a high media attention level.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Topical US Economic Sentiment Indices</title>
+      <link>/post/questioning-the-news/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/questioning-the-news/</guid>
+      <description>&lt;p&gt;The added advantage of text- and news-based measures as sources of information for forecasting and assessing the economy is significant. In a recent paper of ours, we present a general methodology, which constitutes the base of the sentometrics R package, to forecast economic variables from news data. In this project, we have computed several US news sentiment indicator for many topics relevant to the US economy.&lt;/p&gt;
+&lt;p&gt;To encourage research in this area, we share daily sentiment estimates for those economic topics. We estimate the daily sentiment with several lexicon-based methods. The daily sentiment for each topic is reported from 1993 to 2016. We note that missing dates in the dataset means that no news articles were available at that date.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., &amp;amp; Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values.&lt;/strong&gt; International Journal of Forecasting, 35(4), 1370-1386.
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0169207018302036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/us-econ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Economic Policy Uncertainty Index for Flanders, Wallonia and Belgium</title>
+      <link>/post/epu-index/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/epu-index/</guid>
+      <description>&lt;p&gt;The Economic Policy Uncertainty (EPU) measures the economic risk when the government policy&amp;rsquo;s future path is uncertain. This index can detect events and trends which correlate, for instance, with economic health and stock market downturns. This post showcase the Economic Policy Uncertainty for Belgium, which is divided into two parts: The Flander EPU and the Walloon EPU.&lt;/p&gt;
+&lt;p&gt;The EPU index is derived daily from significant newspapers in french and dutch published in Belgium beginning January 2001 and &lt;strong&gt;kept up to date daily on our home page&lt;/strong&gt;. In particular, we report a 30-day moving average of the daily index. The general idea behind the EPU index&amp;rsquo;s construction is to detect news articles that contain triplets of words: One related to the Economy, one related to Policy, and one related to Uncertainty. These keywords are defined using a combination of expert opinion and Natural Language Processing methods.&lt;/p&gt;
+&lt;p&gt;Here is the monthly index for Belgium zoomed-in from January 2020 to May 2020, which includes the start of the COVID-19 pandemic to showcase the power of the Economic Policy Uncertainty Index.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;coronaEPU.png&#34; alt=&#34;EPU during coronavirus&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The dynamics are interesting. January and February are calm months with a level around 100, which indicates the same degree of uncertainty as on average up to 2011. After that, the uncertainty unequivocally drives up, becomes more volatile transitioning from March to April, and decreasing in the last three weeks of April. Most of the uncertainty increased before the lockdown in Belgium was officially imposed. The uncertainty remains high in May, but at a fairly constant, and lower, daily level.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algaba, A., Borms, S., Boudt, K., Borms &amp;amp; S., Van Pelt, J. (2020). &lt;strong&gt;The Economic Policy Uncertainty Index for Flanders, Wallonia and Belgium&lt;/strong&gt;.  
+&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/epu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The R package sentometrics</title>
+      <link>/post/r-package-sentometrics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/r-package-sentometrics/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;sentometrics&lt;/strong&gt; package offers an integrated framework for textual sentiment time series aggregation and prediction. It accounts for the intrinsic challenge that textual sentiment can be computed in many different ways, as well as the large number of possibilities to pool sentiment into a time series index. The package integrates the fast quantification of sentiment from texts, the aggregation into different sentiment time series, and the prediction based on these measures. All in one coherent workflow!&lt;/p&gt;
+&lt;p&gt;Check out the 
+&lt;a href=&#34;https://sentometricsresearch.github.io/sentometrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dedicated package website&lt;/a&gt; to find out more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing the sentometrics field</title>
+      <link>/post/introducing-sentometrics/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/introducing-sentometrics/</guid>
+      <description>&lt;p&gt;The advent of massive amounts of textual, audio, and visual data has spurred the
+development of econometric methodology to transform qualitative sentiment data into quantitative
+sentiment variables, and to use those variables in an econometric analysis of the relationships between sentiment and other variables. This emerging research field is referred to as sentometrics, which is a portmanteau of sentiment (analysis) and econometrics.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vub-sento-hec.png&#34; alt=&#34;logos VUB and HEC&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Below is an initial list of relevant papers. These research projects are carried out by a joint group of collaborators mainly at the Vrije Universiteit Brussel (in Belgium) and HEC Montréal (in Canada) working on sentometrics.&lt;/p&gt;
+&lt;h3 id=&#34;survey&#34;&gt;Survey&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;An overview of the required steps in a typical econometric analysis of sentiment from textual data.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algaba, A., Ardia, D., Bluteau, K., Borms &amp;amp; S., Boudt, K. (2020). &lt;strong&gt;Econometrics meets sentiment: An overview of methodology and applications&lt;/strong&gt;. Journal of Economic Surveys 34, 512-547. 
+&lt;a href=&#34;https://doi.org/10.1111/joes.12370&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;vignette&#34;&gt;Vignette&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;An extensive introduction to the R package &lt;strong&gt;sentometrics&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Borms, S. &amp;amp; Boudt, K. (2020). &lt;strong&gt;The R package sentometrics to compute, aggregate and predict with textual sentiment&lt;/strong&gt;. Forthcoming in Journal of Statistical Software. 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3067734&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;empirical-applications&#34;&gt;Empirical applications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Borms, S., Boudt, K., Van Holle, F. &amp;amp; Willems, J. (2020). &lt;strong&gt;Semi-supervised text mining for monitoring the news about the ESG performance of companies&lt;/strong&gt;. Working paper.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algaba, A., Borms, S., Boudt, K. &amp;amp; Verbeken, B. (2020). &lt;strong&gt;Constructing a real-time consumer confidence index using media news articles&lt;/strong&gt;. Working paper. 
+&lt;a href=&#34;https://ssrn.com/abstract=3609297&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algaba, A., Borms, S., Boudt, K. &amp;amp; Van Pelt, J. (2020). &lt;strong&gt;The Economic Policy Uncertainty index for Flanders, Wallonia and Belgium&lt;/strong&gt;. Bank- en Financiewezen digitaal 2020/6. 
+&lt;a href=&#34;https://www.financialforum.be/nl/articles/economic-policy-uncertainty-index-flanders-wallonia-and-belgium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ardia, D., Bluteau, K. &amp;amp; Boudt, K. (2019). &lt;strong&gt;Media abnormal tone, earnings announcements, and the stock market&lt;/strong&gt;. Working paper. 
+&lt;a href=&#34;http://dx.doi.org/10.2139/ssrn.3192064&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ardia, D., Bluteau, K. &amp;amp; Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values&lt;/strong&gt;. International Journal of Forecasting 35, 1370-1386. 
+&lt;a href=&#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Explore the rest of this website if you are interested in a more exhaustive account of related research literature.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downloads | Sentometrics Research</title>
+    <link>/download/</link>
+      <atom:link href="/download/index.xml" rel="self" type="application/rss+xml" />
+    <description>Downloads</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Downloads</title>
+      <link>/download/</link>
+    </image>
+    
+    <item>
+      <title>EPU</title>
+      <link>/download/epu/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/download/epu/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Algaba, A., Borms, S., Boudt, K., Borms &amp;amp; S., Van Pelt, J. (2020). &lt;strong&gt;The Economic Policy Uncertainty Index for Flanders, Wallonia and Belgium&lt;/strong&gt;.  
+&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You must place the following url in a footnote to help others find the data: 
+&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MCCC</title>
+      <link>/download/mccc/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/download/mccc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 
+&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You must place the following url in a footnote to help others find the data:  
+&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/way43an9xntvqwn/Sentometrics_US_Media_Climate_Change_Index.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>U.S Topical Economic Sentiment</title>
+      <link>/download/us-econ/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/download/us-econ/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., &amp;amp; Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values.&lt;/strong&gt; International Journal of Forecasting, 35(4), 1370-1386.
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0169207018302036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You must place the following url in a footnote to help others find the data: 
+&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EPU Quebec</title>
+      <link>/download/epu-quebec/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/download/epu-quebec/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A Century of Economic Policy Uncertainty Through the French-Canadian Lens&lt;/strong&gt;.  
+&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3773702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You must place the following url in a footnote to help others find the data: 
+&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
