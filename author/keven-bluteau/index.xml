@@ -34,9 +34,9 @@ textual documents and use a dynamic normalization for the sources’ aggregation
 nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., &amp;amp; Kassem, A. (2021).  &lt;strong&gt;A Century of Economic Policy Uncertainty Through the French-Canadian Lens&lt;/strong&gt;. Economics Letters, 205. 
+&lt;li&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A century of economic policy uncertainty through the French-Canadian lens&lt;/strong&gt;. Economics Letters, 205. 
 &lt;a href=&#34;https://doi.org/10.1016/j.econlet.2021.109938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2106.05240&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3773702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data 
 &lt;a href=&#34;https://sentometrics-research.com/download/epu-quebec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -58,7 +58,7 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;To build our indices, we first propose a concern score: A combination of the level of risk and the sentiment expressed in news media articles. We then compute the concerns score for all news articles about climate change in the corpus. Finally, we aggregate those concerns score into a daily index. We explicitly consider the news media’s attention to climate change during the news articles’ concerns score aggregation process. Indeed, there is a higher probability of the true change in climate change concerns when there is both concerning news articles and a high media attention level.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -73,8 +73,8 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;To encourage research in this area, we share daily sentiment estimates for those economic topics. We estimate the daily sentiment with several lexicon-based methods. The daily sentiment for each topic is reported from 1993 to 2016. We note that missing dates in the dataset means that no news articles were available at that date.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., &amp;amp; Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values.&lt;/strong&gt; International Journal of Forecasting, 35(4), 1370-1386.
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0169207018302036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values&lt;/strong&gt;. International Journal of Forecasting 35, 1370-1386. 
+&lt;a href=&#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data 
 &lt;a href=&#34;https://sentometrics-research.com/download/us-econ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -93,8 +93,9 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;The dynamics are interesting. January and February are calm months with a level around 100, which indicates the same degree of uncertainty as on average up to 2011. After that, the uncertainty unequivocally drives up, becomes more volatile transitioning from March to April, and decreasing in the last three weeks of April. Most of the uncertainty increased before the lockdown in Belgium was officially imposed. The uncertainty remains high in May, but at a fairly constant, and lower, daily level.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Algaba, A., Borms, S., Boudt, K., Borms &amp;amp; S., Van Pelt, J. (2020). &lt;strong&gt;The Economic Policy Uncertainty Index for Flanders, Wallonia and Belgium&lt;/strong&gt;.  
-&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Algaba, A., Borms, S., Boudt, K., van Pelt, J. (2020). &lt;strong&gt;The economic policy uncertainty index for Flanders, Wallonia and Belgium&lt;/strong&gt;. Bank- en Financiewezen digitaal 2020/6. 
+&lt;a href=&#34;https://www.financialforum.be/nl/articles/economic-policy-uncertainty-index-flanders-wallonia-and-belgium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data 
 &lt;a href=&#34;https://sentometrics-research.com/download/epu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;

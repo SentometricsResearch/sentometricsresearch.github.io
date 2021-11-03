@@ -5,12 +5,31 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Media Abnormal Tone, Earnings Announcements, and the Stock Market</title>
+      <link>/post/cat/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/post/cat/</guid>
+      <description>
+
+
+&lt;p&gt;We show that media provide incremental information relative to the information contained in earnings press releases and earnings calls, and on aggregate, market participants overreact to it!&lt;/p&gt;
+&lt;p&gt;The complementary role of the news media stems from their transformation of earnings-related information into a more easily understandable, contextualized, and condensed format and the additional information it can provide given critical contemporary events.&lt;/p&gt;
+&lt;p&gt;We get to this result thanks to our methodological contribution of extending the event-study framework to analyze both cumulative abnormal return and tone. In addition, the use of structural topic modeling allows us to pinpoint the difference in content between corporate disclosures and media articles.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;car.png&#34; /&gt;
+&lt;em&gt;Check out the paper!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K. (20xx). &lt;strong&gt;Media abnormal tone, earnings announcements, and the stock market&lt;/strong&gt;, Journal of Financial Markets. &lt;a href=&#34;https://doi.org/10.1016/j.finmar.2021.100683&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.2139/ssrn.3192064&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>A Century of Economic Policy Uncertainty Through the French-Canadian Lens</title>
@@ -34,9 +53,9 @@ textual documents and use a dynamic normalization for the sources’ aggregation
 nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., &amp;amp; Kassem, A. (2021).  &lt;strong&gt;A Century of Economic Policy Uncertainty Through the French-Canadian Lens&lt;/strong&gt;. Economics Letters, 205. 
+&lt;li&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A century of economic policy uncertainty through the French-Canadian lens&lt;/strong&gt;. Economics Letters, 205. 
 &lt;a href=&#34;https://doi.org/10.1016/j.econlet.2021.109938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2106.05240&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3773702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data 
 &lt;a href=&#34;https://sentometrics-research.com/download/epu-quebec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -58,7 +77,7 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;To build our indices, we first propose a concern score: A combination of the level of risk and the sentiment expressed in news media articles. We then compute the concerns score for all news articles about climate change in the corpus. Finally, we aggregate those concerns score into a daily index. We explicitly consider the news media’s attention to climate change during the news articles’ concerns score aggregation process. Indeed, there is a higher probability of the true change in climate change concerns when there is both concerning news articles and a high media attention level.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -73,8 +92,8 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;To encourage research in this area, we share daily sentiment estimates for those economic topics. We estimate the daily sentiment with several lexicon-based methods. The daily sentiment for each topic is reported from 1993 to 2016. We note that missing dates in the dataset means that no news articles were available at that date.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., &amp;amp; Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values.&lt;/strong&gt; International Journal of Forecasting, 35(4), 1370-1386.
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0169207018302036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values&lt;/strong&gt;. International Journal of Forecasting 35, 1370-1386. 
+&lt;a href=&#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data 
 &lt;a href=&#34;https://sentometrics-research.com/download/us-econ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -93,8 +112,9 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;The dynamics are interesting. January and February are calm months with a level around 100, which indicates the same degree of uncertainty as on average up to 2011. After that, the uncertainty unequivocally drives up, becomes more volatile transitioning from March to April, and decreasing in the last three weeks of April. Most of the uncertainty increased before the lockdown in Belgium was officially imposed. The uncertainty remains high in May, but at a fairly constant, and lower, daily level.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Algaba, A., Borms, S., Boudt, K., Borms &amp;amp; S., Van Pelt, J. (2020). &lt;strong&gt;The Economic Policy Uncertainty Index for Flanders, Wallonia and Belgium&lt;/strong&gt;.  
-&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Algaba, A., Borms, S., Boudt, K., van Pelt, J. (2020). &lt;strong&gt;The economic policy uncertainty index for Flanders, Wallonia and Belgium&lt;/strong&gt;. Bank- en Financiewezen digitaal 2020/6. 
+&lt;a href=&#34;https://www.financialforum.be/nl/articles/economic-policy-uncertainty-index-flanders-wallonia-and-belgium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data 
 &lt;a href=&#34;https://sentometrics-research.com/download/epu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -109,6 +129,11 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
       <description>&lt;p&gt;The &lt;strong&gt;sentometrics&lt;/strong&gt; package offers an integrated framework for textual sentiment time series aggregation and prediction. It accounts for the intrinsic challenge that textual sentiment can be computed in many different ways, as well as the large number of possibilities to pool sentiment into a time series index. The package integrates the fast quantification of sentiment from texts, the aggregation into different sentiment time series, and the prediction based on these measures. All in one coherent workflow!&lt;/p&gt;
 &lt;p&gt;Check out the 
 &lt;a href=&#34;https://sentometricsresearch.github.io/sentometrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dedicated package website&lt;/a&gt; to find out more.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Borms, S. &amp;amp; Boudt, K. (2021). &lt;strong&gt;The R package sentometrics to compute, aggregate and predict with textual sentiment&lt;/strong&gt;. Journal of Statistical Software, 99, 1-40. 
+&lt;a href=&#34;https://doi.org/10.18637/jss.v099.i02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -125,38 +150,50 @@ sentiment variables, and to use those variables in an econometric analysis of th
 &lt;h3 id=&#34;survey&#34;&gt;Survey&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;An overview of the required steps in a typical econometric analysis of sentiment from textual data.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Algaba, A., Ardia, D., Bluteau, K., Borms &amp;amp; S., Boudt, K. (2020). &lt;strong&gt;Econometrics meets sentiment: An overview of methodology and applications&lt;/strong&gt;. Journal of Economic Surveys 34, 512-547. 
-&lt;a href=&#34;https://doi.org/10.1111/joes.12370&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Algaba, A., Ardia, D., Bluteau, K., Borms S., Boudt, K. (2020). &lt;strong&gt;Econometrics meets sentiment: An overview of methodology and applications&lt;/strong&gt;. Journal of Economic Surveys 34, 512-547. 
+&lt;a href=&#34;https://doi.org/10.1111/joes.12370&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;vignette&#34;&gt;Vignette&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;An extensive introduction to the R package &lt;strong&gt;sentometrics&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Borms, S. &amp;amp; Boudt, K. (2020). &lt;strong&gt;The R package sentometrics to compute, aggregate and predict with textual sentiment&lt;/strong&gt;. Forthcoming in Journal of Statistical Software. 
-&lt;a href=&#34;https://doi.org/10.2139/ssrn.3067734&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Borms, S. &amp;amp; Boudt, K. (2021). &lt;strong&gt;The R package sentometrics to compute, aggregate and predict with textual sentiment&lt;/strong&gt;. Journal of Statistical Software, 99, 1-40. 
+&lt;a href=&#34;https://doi.org/10.18637/jss.v099.i02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;empirical-applications&#34;&gt;Empirical applications&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Borms, S., Boudt, K., Van Holle, F. &amp;amp; Willems, J. (2020). &lt;strong&gt;Semi-supervised text mining for monitoring the news about the ESG performance of companies&lt;/strong&gt;. Working paper.&lt;/p&gt;
+&lt;p&gt;Ardia, D., Bluteau, K., Boudt, K. (20xx). &lt;strong&gt;Media abnormal tone, earnings announcements, and the stock market&lt;/strong&gt;, Journal of Financial Markets. 
+&lt;a href=&#34;https://doi.org/10.1016/j.finmar.2021.100683&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3192064&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Algaba, A., Borms, S., Boudt, K. &amp;amp; Verbeken, B. (2020). &lt;strong&gt;Constructing a real-time consumer confidence index using media news articles&lt;/strong&gt;. Working paper. 
-&lt;a href=&#34;https://ssrn.com/abstract=3609297&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A century of economic policy uncertainty through the French-Canadian lens&lt;/strong&gt;. Economics Letters, 205. 
+&lt;a href=&#34;https://doi.org/10.1016/j.econlet.2021.109938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3773702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Algaba, A., Borms, S., Boudt, K. &amp;amp; Van Pelt, J. (2020). &lt;strong&gt;The Economic Policy Uncertainty index for Flanders, Wallonia and Belgium&lt;/strong&gt;. Bank- en Financiewezen digitaal 2020/6. 
-&lt;a href=&#34;https://www.financialforum.be/nl/articles/economic-policy-uncertainty-index-flanders-wallonia-and-belgium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Borms, S., Boudt, K., Van Holle, F., Willems, J. (2021). &lt;strong&gt;Semi-supervised text mining for monitoring the news about the ESG performance of companies&lt;/strong&gt;. In: Consoli S., Reforgiato Recupero D., Saisana M. (eds) Data Science for Economics and Finance. Springer, Cham. 
+&lt;a href=&#34;https://doi.org/10.1007/978-3-030-66891-4_10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3868414&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Ardia, D., Bluteau, K. &amp;amp; Boudt, K. (2019). &lt;strong&gt;Media abnormal tone, earnings announcements, and the stock market&lt;/strong&gt;. Working paper. 
-&lt;a href=&#34;http://dx.doi.org/10.2139/ssrn.3192064&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Algaba, A., Borms, S., Boudt, K., Verbeken, B. (2020). &lt;strong&gt;Constructing a real-time consumer confidence index using media news articles&lt;/strong&gt;. Working paper. 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3609297&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Ardia, D., Bluteau, K. &amp;amp; Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values&lt;/strong&gt;. International Journal of Forecasting 35, 1370-1386. 
-&lt;a href=&#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algaba, A., Borms, S., Boudt, K., van Pelt, J. (2020). &lt;strong&gt;The economic policy uncertainty index for Flanders, Wallonia and Belgium&lt;/strong&gt;. Bank- en Financiewezen digitaal 2020/6. 
+&lt;a href=&#34;https://www.financialforum.be/nl/articles/economic-policy-uncertainty-index-flanders-wallonia-and-belgium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ardia, D., Bluteau, K., Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values&lt;/strong&gt;. International Journal of Forecasting 35, 1370-1386. 
+&lt;a href=&#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Explore the rest of this website if you are interested in a more exhaustive account of related research literature.&lt;/p&gt;
 </description>
     </item>
     
