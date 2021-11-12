@@ -5,12 +5,29 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Our research featured in The New York Times and Les Affaires</title>
+      <link>/post/nyt/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/post/nyt/</guid>
+      <description>
+
+
+&lt;p&gt;Our research on climate change concerns and financial markets has been featured in &lt;a href=&#34;https://www.nytimes.com/2021/11/05/business/climate-green-stock-market.html?smid=url-share&#34;&gt;The New York Times&lt;/a&gt; and &lt;a href=&#34;https://www.lesaffaires.com/secteurs-d-activite/general/mauvaise-nouvelle-pour-le-climat-bonne-nouvelle-pour-la-bourse/628829&#34;&gt;Les Affaires&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Media Abnormal Tone, Earnings Announcements, and the Stock Market</title>
