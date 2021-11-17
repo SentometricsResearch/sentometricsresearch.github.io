@@ -5,12 +5,31 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sentometrics Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sentometrics Research</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>A French introduction on Sentometrics published in CScience.ca</title>
+      <link>/post/cscience/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/post/cscience/</guid>
+      <description>
+
+
+&lt;p&gt;The Sentometrics field is introduced in French in &lt;a href=&#34;https://www.cscience.ca/2021/11/16/quand-lia-ausculte-les-emotions-contemporaines/&#34;&gt;CScience.ca&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A century of economic policy uncertainty through the French-Canadian lens&lt;/strong&gt;. Economics Letters, 205. &lt;a href=&#34;https://doi.org/10.1016/j.econlet.2021.109938&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.2139/ssrn.3773702&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the EPU Quebec data &lt;a href=&#34;https://sentometrics-research.com/download/epu-quebec/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the Climate change index &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our research featured in The New York Times and Les Affaires</title>
@@ -20,7 +39,7 @@
       <description>
 
 
-&lt;p&gt;Our research on climate change concerns and financial markets has been featured in &lt;a href=&#34;https://www.nytimes.com/2021/11/05/business/climate-green-stock-market.html?smid=url-share&#34;&gt;The New York Times&lt;/a&gt; and &lt;a href=&#34;https://www.lesaffaires.com/secteurs-d-activite/general/mauvaise-nouvelle-pour-le-climat-bonne-nouvelle-pour-la-bourse/628829&#34;&gt;Les Affaires&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our research on climate change concerns and financial markets has been featured in &lt;a href=&#34;https://www.nytimes.com/2021/11/05/business/climate-green-stock-market.html?smid=url-share&#34;&gt;The New York Times&lt;/a&gt; and &lt;a href=&#34;https://www.lesaffaires.com/secteurs-d-activite/general/mauvaise-nouvelle-pour-le-climat-bonne-nouvelle-pour-la-bourse/628829&#34;&gt;Les Affaires&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
