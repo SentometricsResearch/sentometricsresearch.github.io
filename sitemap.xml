@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/keven-bluteau/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epu-belgium-update/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/cscience/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/david-ardia/</loc>
-    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +49,6 @@
   
   <url>
     <loc>/post/epu-quebec/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/keven-bluteau/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
