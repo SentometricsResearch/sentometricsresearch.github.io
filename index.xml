@@ -5,12 +5,24 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sentometrics Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sentometrics Research</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Sentometrics presented at the IVADO Digital October 2021 conference</title>
+      <link>/post/ivado/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/ivado/</guid>
+      <description>
+
+
+&lt;p&gt;The Sentometrics field was presented at the &lt;a href=&#34;https://www.youtube.com/watch?v=gtvhhjWsXHk&#34;&gt;IVADO Digital October 2021 conference&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Update to the Belgian (french and dutch) EPU Index</title>
