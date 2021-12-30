@@ -4,26 +4,31 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/david-ardia/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/topics/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/ivado/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ivado/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url>
   

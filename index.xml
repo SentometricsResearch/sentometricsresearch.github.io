@@ -5,12 +5,29 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sentometrics Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sentometrics Research</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Landscape of academic finance</title>
+      <link>/post/topics/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/topics/</guid>
+      <description>
+
+
+&lt;p&gt;The preliminary version of our paper &lt;strong&gt;Landscape of academic finance with the Structural Topic Model&lt;/strong&gt; has just been released.&lt;/p&gt;
+&lt;p&gt;Using the structural topic model, we present a landscape of academic finance. We analyze more than 40,000 titles and abstracts published in 32 finance journals over a period ranging from 1992 to 2020. We identify the research topics and explore their relation and prevalence over time and across journals. Our analyses reveal that most journals have covered more topics over time, thus becoming more generalist.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Meghani, M.A. (2021). &lt;strong&gt;Landscape of academic finance with the Structural Topic Model&lt;/strong&gt;. Working Paper &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990436&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Sentometrics presented at the IVADO Digital October 2021 conference</title>
