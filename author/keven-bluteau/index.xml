@@ -14,9 +14,9 @@
     
     <item>
       <title>Update to the Belgian (French and Dutch) EPU Index</title>
-      <link>/post/epu-belgium-update/</link>
+      <link>/post/2111-epu-belgium-update/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/post/epu-belgium-update/</guid>
+      <guid>/post/2111-epu-belgium-update/</guid>
       <description>&lt;p&gt;We have made an update to the Belgian Economic Policy Uncertainty index.&lt;/p&gt;
 &lt;p&gt;This update makes the index much more localized to Belgium and thus less affected by international events (that have no impact on Belgium). Moreover, we have made some changes that take into account some specificity of the dutch language.&lt;/p&gt;
 &lt;p&gt;Overall, this results in a more aligned and correlated French- and Dutch-specific EPU index. This update also eliminates unwarranted disparities between the EPU index of each language.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>A Century of Economic Policy Uncertainty Through the French-Canadian Lens</title>
-      <link>/post/epu-quebec/</link>
+      <link>/post/2102-epu-quebec/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/post/epu-quebec/</guid>
+      <guid>/post/2102-epu-quebec/</guid>
       <description>&lt;p&gt;Leveraging a historical French-Canadian newspaper data set provided by the Bibliothèque et Archives Nationales du Québec (BAnQ)
 as well as a research collaboration with Radio-Canada, we have developed a century-long historical Economic Policy Uncertainty (EPU) index for the Canadian province of Quebec.
 In addition to providing a long historical view of the Quebec economy via the EPU,
@@ -58,9 +58,9 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
     
     <item>
       <title>Media Climate Change Concerns Index</title>
-      <link>/post/climate-change/</link>
+      <link>/post/2011-climate-change/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/climate-change/</guid>
+      <guid>/post/2011-climate-change/</guid>
       <description>
 
 
@@ -79,9 +79,9 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
     
     <item>
       <title>Daily Topical US Economic Sentiment Indices</title>
-      <link>/post/questioning-the-news/</link>
+      <link>/post/2009-questioning-the-news/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/questioning-the-news/</guid>
+      <guid>/post/2009-questioning-the-news/</guid>
       <description>&lt;p&gt;The added advantage of text- and news-based measures as sources of information for forecasting and assessing the economy is significant. In a recent paper of ours, we present a general methodology, which constitutes the base of the sentometrics R package, to forecast economic variables from news data. In this project, we have computed several US news sentiment indicator for many topics relevant to the US economy.&lt;/p&gt;
 &lt;p&gt;To encourage research in this area, we share daily sentiment estimates for those economic topics. We estimate the daily sentiment with several lexicon-based methods. The daily sentiment for each topic is reported from 1993 to 2016. We note that missing dates in the dataset means that no news articles were available at that date.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper&lt;/em&gt;&lt;/p&gt;
@@ -96,9 +96,9 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
     
     <item>
       <title>The Economic Policy Uncertainty Index for Flanders, Wallonia and Belgium</title>
-      <link>/post/epu-index/</link>
+      <link>/post/2009-epu-index/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/epu-index/</guid>
+      <guid>/post/2009-epu-index/</guid>
       <description>&lt;p&gt;The Economic Policy Uncertainty (EPU) measures the economic risk when the government policy&amp;rsquo;s future path is uncertain. This index can detect events and trends which correlate, for instance, with economic health and stock market downturns. This post showcase the Economic Policy Uncertainty for Belgium, which is divided into two parts: The Flander EPU and the Walloon EPU.&lt;/p&gt;
 &lt;p&gt;The EPU index is derived daily from significant newspapers in french and dutch published in Belgium beginning January 2001 and &lt;strong&gt;kept up to date daily on our home page&lt;/strong&gt;. In particular, we report a 30-day moving average of the daily index. The general idea behind the EPU index&amp;rsquo;s construction is to detect news articles that contain triplets of words: One related to the Economy, one related to Policy, and one related to Uncertainty. These keywords are defined using a combination of expert opinion and Natural Language Processing methods.&lt;/p&gt;
 &lt;p&gt;Here is the monthly index for Belgium zoomed-in from January 2020 to May 2020, which includes the start of the COVID-19 pandemic to showcase the power of the Economic Policy Uncertainty Index.&lt;/p&gt;
