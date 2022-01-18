@@ -5,12 +5,25 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sentometrics Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sentometrics Research</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Webinar at Ran.Données 2022</title>
+      <link>/post/2201-randdonnees/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2201-randdonnees/</guid>
+      <description>
+
+
+&lt;p&gt;David Ardia presented a one-hour webinar about &lt;strong&gt;Science ouverte&lt;/strong&gt; at the IVADO Ran.Données 2022.&lt;/p&gt;
+&lt;p&gt;Slides are available &lt;a href=&#34;https://www.dropbox.com/s/1r92z7aj5ze6j4t/202201%20RandDonnees.pdf?dl=0&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Landscape of academic finance</title>
