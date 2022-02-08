@@ -5,12 +5,25 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Café Scientifique IVADO</title>
+      <link>/post/2202-cafe/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2202-cafe/</guid>
+      <description>
+
+
+&lt;p&gt;David Ardia presented recent research projects at &lt;a href=&#34;https://www.youtube.com/watch?v=QzjliUddwJA&#34;&gt;Café Scientifique IVADO&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://www.linkedin.com/in/alaa-kassem&#34;&gt;Alaa Kassem&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/thiendtran&#34;&gt;Thien Duy Tran&lt;/a&gt;, and &lt;a href=&#34;https://www.linkedin.com/in/clementaymard&#34;&gt;Clément Aymard&lt;/a&gt; for their participation!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Webinar at Ran.Données 2022</title>
