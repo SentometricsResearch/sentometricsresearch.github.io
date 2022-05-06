@@ -219,11 +219,7 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
       <link>/download/mccc/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/download/mccc/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 
-&lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
+      <description>&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
@@ -236,8 +232,11 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Note that two datasets exist.&lt;/p&gt;
+&lt;p&gt;The first data set is based on a corpus of 8 newspapers. It reflects the initial 2020 NBB research paper version available at: [https://www.nbb.be/doc/ts/publications/wp/wp395en.pdf](Ardia, D., Bluteau, K., Boudt, K. &amp;amp; Inghelbrecht, K. (2020). Climate change concerns and the performance of green versus brown stocks. National Bank of Belgium, Working Paper Research, October 2020 No 395.)&lt;/p&gt;
+&lt;p&gt;The second data set is based on a corpus of 10 newspapers and 2 newswires. It reflects the updated 2022 research paper version available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722](Ardia, D., Bluteau, K., Boudt, K. &amp;amp; Inghelbrecht, K. (2022). Climate change concerns and the performance of green versus brown stocks. &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722)&#34;&gt;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722)&lt;/a&gt;. We note that not only the corpus is updated in this version, but also the topics. Moreover, monthly indices are added to the dataset to complement the daily indices.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/way43an9xntvqwn/Sentometrics_US_Media_Climate_Change_Index.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
 </description>
