@@ -5,85 +5,12 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
-    
-    <item>
-      <title>Café Scientifique IVADO</title>
-      <link>/post/2202-cafe/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2202-cafe/</guid>
-      <description>
-
-
-&lt;p&gt;David Ardia presented recent research projects at &lt;a href=&#34;https://www.youtube.com/watch?v=QzjliUddwJA&#34;&gt;Café Scientifique IVADO&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Thanks to &lt;a href=&#34;https://www.linkedin.com/in/alaa-kassem&#34;&gt;Alaa Kassem&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/thiendtran&#34;&gt;Thien Duy Tran&lt;/a&gt;, and &lt;a href=&#34;https://www.linkedin.com/in/clementaymard&#34;&gt;Clément Aymard&lt;/a&gt; for their participation!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Webinar at Ran.Données 2022</title>
-      <link>/post/2201-randonnees/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2201-randonnees/</guid>
-      <description>
-
-
-&lt;p&gt;David Ardia presented a one-hour &lt;a href=&#34;https://www.youtube.com/watch?v=jjqEvDcnG3I&#34;&gt;webinar&lt;/a&gt; about &lt;strong&gt;Science ouverte&lt;/strong&gt; at the IVADO Ran.Données 2022.&lt;/p&gt;
-&lt;p&gt;Slides are available &lt;a href=&#34;https://www.dropbox.com/s/1r92z7aj5ze6j4t/202201%20RandDonnees.pdf?dl=0&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Landscape of academic finance</title>
-      <link>/post/2112-topics/</link>
-      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2112-topics/</guid>
-      <description>
-
-
-&lt;p&gt;The preliminary version of our paper &lt;strong&gt;Landscape of academic finance with the Structural Topic Model&lt;/strong&gt; has just been released.&lt;/p&gt;
-&lt;p&gt;Using the structural topic model, we present a landscape of academic finance. We analyze more than 40,000 titles and abstracts published in 32 finance journals over a period ranging from 1992 to 2020. We identify the research topics and explore their relation and prevalence over time and across journals. Our analyses reveal that most journals have covered more topics over time, thus becoming more generalist.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Check out the paper!&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Meghani, M.A. (2021). &lt;strong&gt;Landscape of academic finance with the Structural Topic Model&lt;/strong&gt;. Working Paper &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990436&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sentometrics presented at the IVADO Digital October 2021 conference</title>
-      <link>/post/2112-ivado/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2112-ivado/</guid>
-      <description>
-
-
-&lt;p&gt;The Sentometrics field was presented at the &lt;a href=&#34;https://www.youtube.com/watch?v=gtvhhjWsXHk&#34;&gt;IVADO Digital October 2021 conference&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Virtual poster at the EC2 conference</title>
-      <link>/post/2112-ec2/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2112-ec2/</guid>
-      <description>
-
-
-&lt;p&gt;Our paper &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt; was presented at the EC2 2021 conference.&lt;/p&gt;
-&lt;p&gt;Have a look at the &lt;a href=&#34;https://www.dropbox.com/s/h711efzaay4zo66/202112%20EC2.mp4?dl=0&#34;&gt;video&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Update to the Belgian (French and Dutch) EPU Index</title>
@@ -99,47 +26,12 @@
     </item>
     
     <item>
-      <title>A French introduction to Sentometrics published in CScience.ca</title>
-      <link>/post/2111-cscience/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2111-cscience/</guid>
-      <description>
-
-
-&lt;p&gt;The Sentometrics field is introduced in French in &lt;a href=&#34;https://www.cscience.ca/2021/11/16/quand-lia-ausculte-les-emotions-contemporaines/&#34;&gt;CScience.ca&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Check out the papers and the indices discussed in the article !&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A century of economic policy uncertainty through the French-Canadian lens&lt;/strong&gt;. Economics Letters, 205. &lt;a href=&#34;https://doi.org/10.1016/j.econlet.2021.109938&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.2139/ssrn.3773702&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Download the EPU Quebec data &lt;a href=&#34;https://sentometrics-research.com/download/epu-quebec/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Download the Climate change index &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Our research featured in The New York Times and Les Affaires</title>
-      <link>/post/2111-nyt/</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2111-nyt/</guid>
-      <description>
-
-
-&lt;p&gt;Our research on climate change concerns and financial markets has been featured in &lt;a href=&#34;https://www.nytimes.com/2021/11/05/business/climate-green-stock-market.html?smid=url-share&#34;&gt;The New York Times&lt;/a&gt; and &lt;a href=&#34;https://www.lesaffaires.com/secteurs-d-activite/general/mauvaise-nouvelle-pour-le-climat-bonne-nouvelle-pour-la-bourse/628829&#34;&gt;Les Affaires&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Media Abnormal Tone, Earnings Announcements, and the Stock Market</title>
       <link>/post/2111-cat/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/post/2111-cat/</guid>
       <description>
+&lt;script src=&#34;../post/2111-cat/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;We show that media provide incremental information relative to the information contained in earnings press releases and earnings calls, and on aggregate, market participants overreact to it!&lt;/p&gt;
@@ -190,6 +82,7 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/post/2011-climate-change/</guid>
       <description>
+&lt;script src=&#34;../post/2011-climate-change/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Many consider climate change as one of the biggest challenges of our times. However, there is disagreement on the magnitude of the climate change problem and how to solve it. Conditional on their view on the issue, some people may have a high preference for sustainable solutions and investments tackling the climate change problem, while others may not. Moreover, these preferences can evolve on the arrival of new information. In general, preference for sustainable solutions is largely a function of how concerned people are about climate change.&lt;/p&gt;
