@@ -5,12 +5,30 @@
     <link>/author/keven-bluteau/</link>
       <atom:link href="/author/keven-bluteau/index.xml" rel="self" type="application/rss+xml" />
     <description>Keven Bluteau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Keven Bluteau</title>
       <link>/author/keven-bluteau/</link>
     </image>
+    
+    <item>
+      <title>Our research published in Management Science</title>
+      <link>/post/2212-ms/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2212-ms/</guid>
+      <description>
+&lt;script src=&#34;../../post/2212-ms/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Our paper &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt; is now available online in open access at Management Science!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (202x). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. Management Science, Forthcoming &lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34;&gt;Article&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Update to the Belgian (French and Dutch) EPU Index</title>
@@ -62,6 +80,7 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/post/2011-climate-change/</guid>
       <description>
+&lt;script src=&#34;../../post/2011-climate-change/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Many consider climate change as one of the biggest challenges of our times. However, there is disagreement on the magnitude of the climate change problem and how to solve it. Conditional on their view on the issue, some people may have a high preference for sustainable solutions and investments tackling the climate change problem, while others may not. Moreover, these preferences can evolve on the arrival of new information. In general, preference for sustainable solutions is largely a function of how concerned people are about climate change.&lt;/p&gt;

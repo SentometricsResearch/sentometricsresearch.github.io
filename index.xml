@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sentometrics Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sentometrics Research</title>
@@ -13,11 +13,30 @@
     </image>
     
     <item>
+      <title>Our research published in Management Science</title>
+      <link>/post/2212-ms/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2212-ms/</guid>
+      <description>
+&lt;script src=&#34;./post/2212-ms/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Our paper &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt; is now available online in open access at Management Science!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (202x). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. Management Science, Forthcoming &lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34;&gt;Article&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Café Scientifique IVADO</title>
       <link>/post/2202-cafe/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/post/2202-cafe/</guid>
       <description>
+&lt;script src=&#34;./post/2202-cafe/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;David Ardia presented recent research projects at &lt;a href=&#34;https://www.youtube.com/watch?v=QzjliUddwJA&#34;&gt;Café Scientifique IVADO&lt;/a&gt;.&lt;/p&gt;
@@ -31,6 +50,7 @@
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/post/2201-randonnees/</guid>
       <description>
+&lt;script src=&#34;./post/2201-randonnees/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;David Ardia presented a one-hour &lt;a href=&#34;https://www.youtube.com/watch?v=jjqEvDcnG3I&#34;&gt;webinar&lt;/a&gt; about &lt;strong&gt;Science ouverte&lt;/strong&gt; at the IVADO Ran.Données 2022.&lt;/p&gt;
@@ -44,6 +64,7 @@
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/post/2112-topics/</guid>
       <description>
+&lt;script src=&#34;./post/2112-topics/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;The preliminary version of our paper &lt;strong&gt;Landscape of academic finance with the Structural Topic Model&lt;/strong&gt; has just been released.&lt;/p&gt;
@@ -61,6 +82,7 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/post/2112-ivado/</guid>
       <description>
+&lt;script src=&#34;./post/2112-ivado/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;The Sentometrics field was presented at the &lt;a href=&#34;https://www.youtube.com/watch?v=gtvhhjWsXHk&#34;&gt;IVADO Digital October 2021 conference&lt;/a&gt;.&lt;/p&gt;
@@ -73,6 +95,7 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/post/2112-ec2/</guid>
       <description>
+&lt;script src=&#34;./post/2112-ec2/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Our paper &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt; was presented at the EC2 2021 conference.&lt;/p&gt;
@@ -104,6 +127,7 @@
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/post/2111-cscience/</guid>
       <description>
+&lt;script src=&#34;./post/2111-cscience/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;The Sentometrics field is introduced in French in &lt;a href=&#34;https://www.cscience.ca/2021/11/16/quand-lia-ausculte-les-emotions-contemporaines/&#34;&gt;CScience.ca&lt;/a&gt;.&lt;/p&gt;
@@ -123,6 +147,7 @@
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/post/2111-nyt/</guid>
       <description>
+&lt;script src=&#34;./post/2111-nyt/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Our research on climate change concerns and financial markets has been featured in &lt;a href=&#34;https://www.nytimes.com/2021/11/05/business/climate-green-stock-market.html?smid=url-share&#34;&gt;The New York Times&lt;/a&gt; and &lt;a href=&#34;https://www.lesaffaires.com/secteurs-d-activite/general/mauvaise-nouvelle-pour-le-climat-bonne-nouvelle-pour-la-bourse/628829&#34;&gt;Les Affaires&lt;/a&gt;.&lt;/p&gt;
@@ -140,6 +165,7 @@
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/post/2111-cat/</guid>
       <description>
+&lt;script src=&#34;./post/2111-cat/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;We show that media provide incremental information relative to the information contained in earnings press releases and earnings calls, and on aggregate, market participants overreact to it!&lt;/p&gt;
@@ -279,6 +305,7 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/post/2011-climate-change/</guid>
       <description>
+&lt;script src=&#34;./post/2011-climate-change/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Many consider climate change as one of the biggest challenges of our times. However, there is disagreement on the magnitude of the climate change problem and how to solve it. Conditional on their view on the issue, some people may have a high preference for sustainable solutions and investments tackling the climate change problem, while others may not. Moreover, these preferences can evolve on the arrival of new information. In general, preference for sustainable solutions is largely a function of how concerned people are about climate change.&lt;/p&gt;
