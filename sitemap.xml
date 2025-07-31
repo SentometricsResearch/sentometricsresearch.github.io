@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2024-climate-change/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <loc>/post/2025-climate-change/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/keven-bluteau/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2024-climate-change/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -3669,10 +3674,6 @@
   </url>
   
   <url>
-    <loc>/sponsors/hec/</loc>
-  </url>
-  
-  <url>
     <loc>/software/nltk/</loc>
   </url>
   
@@ -3717,23 +3718,11 @@
   </url>
   
   <url>
-    <loc>/sponsors/</loc>
-  </url>
-  
-  <url>
     <loc>/software/stm/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/sponsors/innoviris/</loc>
-  </url>
-  
-  <url>
-    <loc>/sponsors/vub/</loc>
   </url>
   
   <url>

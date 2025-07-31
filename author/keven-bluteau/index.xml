@@ -5,7 +5,7 @@
     <link>/author/keven-bluteau/</link>
       <atom:link href="/author/keven-bluteau/index.xml" rel="self" type="application/rss+xml" />
     <description>Keven Bluteau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Keven Bluteau</title>
@@ -13,12 +13,29 @@
     </image>
     
     <item>
+      <title>2025 Update on the Media Climate Change Concerns Index</title>
+      <link>/post/2025-climate-change/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/post/2025-climate-change/</guid>
+      <description>
+
+
+&lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to June 2025. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
+&lt;p&gt;We have extended the MCCC index and its subindices (topical and thematic) beyond their updated timeframe of 2003 to June 2024, now encompassing data up to June 2025. This update provides one year of additional data, allowing for a more comprehensive understanding of media coverage of climate change.&lt;/p&gt;
+&lt;p&gt;No methodological change was required for this update (for the changes compared to the original index, see the 2023 update)&lt;/p&gt;
+&lt;p&gt;We hope this update will enhance the utility of the Media Climate Change Concerns Index, empowering academic researchers and industry practitioners to gain deeper insights into the evolving landscape of media coverage of climate change.&lt;/p&gt;
+&lt;p&gt;Please refer to this article when using the index in your research:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2024 Update on the Media Climate Change Concerns Index</title>
       <link>/post/2024-climate-change/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>/post/2024-climate-change/</guid>
       <description>
-&lt;script src=&#34;../../post/2024-climate-change/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to June 2024. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
@@ -37,7 +54,6 @@
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/post/2023-climate-change/</guid>
       <description>
-&lt;script src=&#34;../../post/2023-climate-change/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to August 2022. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
@@ -62,7 +78,6 @@
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/post/2212-ms/</guid>
       <description>
-&lt;script src=&#34;../../post/2212-ms/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Our paper &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt; is now available online in open access at Management Science!&lt;/p&gt;
@@ -124,7 +139,6 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/post/2011-climate-change/</guid>
       <description>
-&lt;script src=&#34;../../post/2011-climate-change/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Many consider climate change as one of the biggest challenges of our times. However, there is disagreement on the magnitude of the climate change problem and how to solve it. Conditional on their view on the issue, some people may have a high preference for sustainable solutions and investments tackling the climate change problem, while others may not. Moreover, these preferences can evolve on the arrival of new information. In general, preference for sustainable solutions is largely a function of how concerned people are about climate change.&lt;/p&gt;
