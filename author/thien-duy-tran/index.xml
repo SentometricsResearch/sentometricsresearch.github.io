@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thien Duy Tran | Sentometrics Research</title>
+    <link>/author/thien-duy-tran/</link>
+      <atom:link href="/author/thien-duy-tran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thien Duy Tran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thien Duy Tran</title>
+      <link>/author/thien-duy-tran/</link>
+    </image>
+    
+    <item>
+      <title>Factor exposure heterogeneity in green and brown stocks</title>
+      <link>/publication/factor-exposure-green-brown/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/factor-exposure-green-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How easy is it for investment managers to deploy their talent in green and brown stocks?</title>
+      <link>/publication/deploy-talent-green-brown/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/deploy-talent-green-brown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

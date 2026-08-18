@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koen Inghelbrecht | Sentometrics Research</title>
+    <link>/author/koen-inghelbrecht/</link>
+      <atom:link href="/author/koen-inghelbrecht/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koen Inghelbrecht</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Koen Inghelbrecht</title>
+      <link>/author/koen-inghelbrecht/</link>
+    </image>
+    
+    <item>
+      <title>Climate change concerns and the performance of green versus brown stocks</title>
+      <link>/publication/climate-change-concerns/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/climate-change-concerns/</guid>
+      <description>&lt;p&gt;Concern about climate change is not observable, so it has to be proxied. The paper builds a daily index from major US newspapers and newswires that combines the level of risk and the sentiment expressed in climate-related articles, weighted by media attention, and shows that unexpected increases in that index move green stocks relative to brown ones.&lt;/p&gt;
+&lt;p&gt;The index behind the paper is the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Media Climate Change Concerns index&lt;/a&gt;, updated annually. National Bank of Belgium research award 2020. Covered by &lt;em&gt;The New York Times&lt;/em&gt; in November 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

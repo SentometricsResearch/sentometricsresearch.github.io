@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Thewissen | Sentometrics Research</title>
+    <link>/author/james-thewissen/</link>
+      <atom:link href="/author/james-thewissen/index.xml" rel="self" type="application/rss+xml" />
+    <description>James Thewissen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>James Thewissen</title>
+      <link>/author/james-thewissen/</link>
+    </image>
+    
+    <item>
+      <title>Jockeying for position in CEO letters: Impression management and sentiment analytics</title>
+      <link>/publication/jockeying-ceo-letters/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jockeying-ceo-letters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When does the tone of earnings press releases matter?</title>
+      <link>/publication/tone-earnings-press-releases/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tone-earnings-press-releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managers set the tone: Equity incentives and the tone of earnings press releases</title>
+      <link>/publication/managers-set-the-tone/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/managers-set-the-tone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

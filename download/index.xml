@@ -5,7 +5,7 @@
     <link>/download/</link>
       <atom:link href="/download/index.xml" rel="self" type="application/rss+xml" />
     <description>Downloads</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Downloads</title>
@@ -13,124 +13,329 @@
     </image>
     
     <item>
-      <title>EPU Belgium</title>
-      <link>/download/epu-belgium/</link>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/download/epu-belgium/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Algaba, A., Borms, S., Boudt, K., van Pelt, J. (2020). &lt;strong&gt;The economic policy uncertainty index for Flanders, Wallonia and Belgium&lt;/strong&gt;. Bank- en Financiewezen digitaal 2020/6. 
-&lt;a href=&#34;https://www.financialforum.be/nl/articles/economic-policy-uncertainty-index-flanders-wallonia-and-belgium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
-&lt;a href=&#34;https://doi.org/10.2139/ssrn.3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You must place the following url in a footnote to help others find the data: 
-&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MCCC</title>
       <link>/download/mccc/</link>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/download/mccc/</guid>
-      <description>&lt;p&gt;We are pleased to make the Media Climate Change Concerns Index data available for academic research purposes. By downloading and utilizing the data, you agree to adhere to the following rules and guidelines:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Citing Relevant References: When incorporating any of these data into your working papers or published papers, it is mandatory to cite the following reference:&lt;/li&gt;
-&lt;/ol&gt;
+      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+&lt;p&gt;Concern about climate change is not observable, so it has to be proxied. The &lt;strong&gt;Media Climate Change
+Concerns (MCCC)&lt;/strong&gt; index does this from news: each climate-related article receives a concern score
+combining the level of risk and the sentiment it expresses, and the article-level scores are
+aggregated into a daily index that explicitly accounts for how much attention the media were paying
+to climate change at the time. Topical and thematic subindices are provided alongside the headline
+series.&lt;/p&gt;
+&lt;p&gt;The index is the empirical core of
+
+&lt;a href=&#34;https://sentometrics-research.com/publication/climate-change-concerns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Climate change concerns and the performance of green versus brown stocks&lt;/a&gt;
+(&lt;em&gt;Management Science&lt;/em&gt;), which shows that green stocks outperform brown stocks when concerns rise
+unexpectedly.&lt;/p&gt;
+&lt;h2 id=&#34;coverage&#34;&gt;Coverage&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Daily&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;January 2003 – June 2025&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;United States&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Ten major newspapers and two newswires (see version history)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Series&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Headline index, plus topical and thematic subindices&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Format&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.xlsx&lt;/code&gt;, one sheet per vintage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- TODO équipe : ajouter ici la liste des colonnes du fichier (nom, définition, unité).
+     C&#39;est la seule pièce du codebook qui manque. --&gt;
+&lt;h2 id=&#34;version-history&#34;&gt;Version history&lt;/h2&gt;
+&lt;p&gt;The file ships &lt;strong&gt;all&lt;/strong&gt; vintages, because published work relies on different ones. Cite the vintage
+you actually used.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Vintage&lt;/th&gt;
+&lt;th&gt;Coverage&lt;/th&gt;
+&lt;th&gt;Corpus&lt;/th&gt;
+&lt;th&gt;Notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 — 2020&lt;/td&gt;
+&lt;td&gt;2003 – Jun 2018&lt;/td&gt;
+&lt;td&gt;8 newspapers&lt;/td&gt;
+&lt;td&gt;The original National Bank of Belgium working-paper version. Kept for historical reproducibility.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 — published&lt;/td&gt;
+&lt;td&gt;2003 – Jun 2018&lt;/td&gt;
+&lt;td&gt;10 newspapers + 2 newswires&lt;/td&gt;
+&lt;td&gt;The version in the &lt;em&gt;Management Science&lt;/em&gt; paper.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 — 2023 update&lt;/td&gt;
+&lt;td&gt;2003 – Aug 2022&lt;/td&gt;
+&lt;td&gt;9 newspapers + 2 newswires&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Houston Chronicle&lt;/em&gt; dropped (access lost); alternative news aggregators used for some sources; LIWC2022 software with the LIWC2015 dictionary. Correlations with vintage 2 exceed 0.95 on the overlapping year.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 — 2024 update&lt;/td&gt;
+&lt;td&gt;2003 – Jun 2024&lt;/td&gt;
+&lt;td&gt;unchanged&lt;/td&gt;
+&lt;td&gt;No methodological change.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5 — 2025 update&lt;/td&gt;
+&lt;td&gt;2003 – Jun 2025&lt;/td&gt;
+&lt;td&gt;unchanged&lt;/td&gt;
+&lt;td&gt;No methodological change.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The methodological break sits between vintages 2 and 3. If your sample crosses mid-2018, read the
+
+&lt;a href=&#34;https://sentometrics-research.com/post/2023-climate-change/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023 update note&lt;/a&gt; before choosing.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-cite&#34;&gt;How to cite&lt;/h2&gt;
+&lt;p&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). &lt;strong&gt;Climate change concerns and the
+performance of green versus brown stocks&lt;/strong&gt;. &lt;em&gt;Management Science&lt;/em&gt;.
+
+&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1287/mnsc.2022.4636&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BibTeX is on the 
+&lt;a href=&#34;https://sentometrics-research.com/cite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to cite&lt;/a&gt; page.&lt;/p&gt;
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
+&lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
+risk associated with its use.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Citing this reference ensures proper acknowledgment of the original source and contributes to the scholarly community&amp;rsquo;s collective knowledge.&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Footnote Placement: To assist other researchers in locating the data, please include the following URL in a footnote within your paper:&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Providing this URL facilitates access to the data and promotes transparency and reproducibility in academic research.&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Assumption of Risk: You acknowledge and assume all risks associated with using the data. While we have taken extensive measures to ensure data accuracy and integrity, it is essential to exercise caution and conduct thorough analyses.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Please note that the Media Climate Change Concerns Index comprises three distinct datasets, each serving specific purposes:&lt;/p&gt;
-&lt;p&gt;First Dataset: This dataset corresponds to the initial 2020 NBB research paper version and is based on a corpus of eight newspapers. We have made this index available for historical reasons, as some research papers have utilized this first version of the index in their analyses.&lt;/p&gt;
-&lt;p&gt;Second Dataset: The second dataset encompasses a corpus of ten newspapers and two newswires, representing the current version of the paper published in Management Science.&lt;/p&gt;
-&lt;p&gt;Third Dataset: The third dataset extends the second dataset by incorporating additional data up to August 2022. For detailed information regarding this update, we encourage you to refer to the relevant blog post, which provides comprehensive insights.&lt;/p&gt;
-&lt;p&gt;Fourth Dataset: The fourth dataset extends the third dataset by incorporating additional data up to June 2024. For detailed information regarding this update, we encourage you to refer to the relevant blog post, which provides comprehensive insights.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>U.S Topical Economic Sentiment</title>
-      <link>/download/us-econ/</link>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/download/us-econ/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values&lt;/strong&gt;. International Journal of Forecasting 35, 1370-1386. 
-&lt;a href=&#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You must place the following url in a footnote to help others find the data: 
-&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+      <title>EPU Belgium</title>
+      <link>/download/epu-belgium/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/download/epu-belgium/</guid>
+      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+&lt;p&gt;Economic policy uncertainty for Belgium, derived daily from major Belgian newspapers in French and
+Dutch. The construction detects articles containing triplets of words — one about the economy, one
+about policy, one about uncertainty — with the keyword sets defined by a combination of expert
+judgment and NLP. Three series are provided: Flanders, Wallonia, and Belgium as a whole. A 30-day
+moving average of the daily index is the series most commonly used.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;November 2021 revision&lt;/strong&gt; made the index more local to Belgium — and so less driven by
+international events with no Belgian impact — and handled several specificities of Dutch. The
+French- and Dutch-language indices are more closely aligned as a result. See the
+
+&lt;a href=&#34;https://sentometrics-research.com/post/2111-epu-belgium-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;update note&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;coverage&#34;&gt;Coverage&lt;/h2&gt;
+&lt;!-- TODO équipe : la couverture affichée ici (2003) contredit le billet de blog d&#39;origine,
+     qui indique « beginning January 2001 ». À trancher avant la prochaine mise à jour. --&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Daily&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2003 – present&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Flanders, Wallonia, Belgium&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Major Belgian newspapers, French and Dutch language&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Format&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.csv&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- TODO équipe : ajouter la liste des colonnes du CSV (nom, définition, unité). --&gt;
+&lt;h2 id=&#34;how-to-cite&#34;&gt;How to cite&lt;/h2&gt;
+&lt;p&gt;Algaba, A., Borms, S., Boudt, K., Van Pelt, J. (2020). &lt;strong&gt;The economic policy uncertainty index for
+Flanders, Wallonia and Belgium&lt;/strong&gt;. &lt;em&gt;Bank- en Financiewezen&lt;/em&gt; 2020/6.
+
+&lt;a href=&#34;https://www.financialforum.be/nl/articles/economic-policy-uncertainty-index-flanders-wallonia-and-belgium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt; ·
+
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BibTeX is on the 
+&lt;a href=&#34;https://sentometrics-research.com/cite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to cite&lt;/a&gt; page.&lt;/p&gt;
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
+&lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
+risk associated with its use.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>EPU Quebec</title>
       <link>/download/epu-quebec/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/download/epu-quebec/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A century of economic policy uncertainty through the French-Canadian lens&lt;/strong&gt;. Economics Letters, 205. 
-&lt;a href=&#34;https://doi.org/10.1016/j.econlet.2021.109938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; 
-&lt;a href=&#34;https://doi.org/10.2139/ssrn.3773702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The data is made available for academic research. By downloading the data you agree to the following rules.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;You must cite the above reference in working papers and published papers that use any of these data.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You must place the following url in a footnote to help others find the data: 
-&lt;a href=&#34;https://sentometrics-research.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sentometrics-research.com&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You assume all risk for the use of the data.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+&lt;p&gt;Economic policy uncertainty — the economic risk that comes from not knowing the future path of
+government policy — measured from &lt;strong&gt;French-Canadian&lt;/strong&gt; sources, which were the missing component of
+the existing Canadian EPU index.&lt;/p&gt;
+&lt;p&gt;Historical archives break the standard EPU recipe: issues are often digitised as whole editions
+rather than individual articles, and source availability shifts across the century. The index uses a
+token-distance-based triple detection and a dynamic normalisation across sources to handle both.
+Three peaks dominate the century: the Great Depression, the 2008 financial crisis, and the COVID-19
+pandemic.&lt;/p&gt;
+&lt;p&gt;Built with archives from Bibliothèque et Archives nationales du Québec and a research collaboration
+with Radio-Canada. See
+
+&lt;a href=&#34;https://sentometrics-research.com/publication/epu-quebec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A century of economic policy uncertainty through the French-Canadian lens&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;coverage&#34;&gt;Coverage&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Monthly&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1913 – 2020&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Quebec, Canada&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;French-Canadian newspaper archives&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Format&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.csv&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- TODO équipe : ajouter la liste des colonnes du CSV (nom, définition, unité). --&gt;
+&lt;h2 id=&#34;how-to-cite&#34;&gt;How to cite&lt;/h2&gt;
+&lt;p&gt;Ardia, D., Bluteau, K., Kassem, A. (2021). &lt;strong&gt;A century of economic policy uncertainty through the
+French-Canadian lens&lt;/strong&gt;. &lt;em&gt;Economics Letters&lt;/em&gt;, 205, 109938.
+
+&lt;a href=&#34;https://doi.org/10.1016/j.econlet.2021.109938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.econlet.2021.109938&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BibTeX is on the 
+&lt;a href=&#34;https://sentometrics-research.com/cite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to cite&lt;/a&gt; page.&lt;/p&gt;
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
+&lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
+risk associated with its use.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download file&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>U.S. Topical Economic Sentiment</title>
+      <link>/download/us-econ/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/download/us-econ/</guid>
+      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+&lt;p&gt;Daily sentiment for a range of topics relevant to the U.S. economy, computed from a large news
+corpus using several lexicon-based methods. The indices are the empirical output of
+
+&lt;a href=&#34;https://sentometrics-research.com/publication/questioning-the-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questioning the news about economic growth&lt;/a&gt;
+(&lt;em&gt;International Journal of Forecasting&lt;/em&gt;), which proposes generating thousands of candidate
+sentiment indices and letting a sparse regression select the ones that forecast — the methodology
+that became the 
+&lt;a href=&#34;https://sentometrics-research.com/publication/sentometrics-r-package/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sentometrics&lt;/a&gt; R package.&lt;/p&gt;
+&lt;p&gt;Winner of the &lt;em&gt;International Journal of Forecasting&lt;/em&gt; best paper award 2018–2019.&lt;/p&gt;
+&lt;h2 id=&#34;coverage&#34;&gt;Coverage&lt;/h2&gt;
+&lt;!-- TODO équipe : la couverture affichée ici (1996) contredit le billet de blog d&#39;origine,
+     qui indique « from 1993 to 2016 ». À trancher. --&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Frequency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Daily&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1996 – 2016&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;United States&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Series&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;One per economic topic, several sentiment methods each&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Format&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.csv&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Dates missing from the file mean no news articles were available for that date.&lt;/p&gt;
+&lt;!-- TODO équipe : ajouter la liste des colonnes du CSV (nom, définition, unité). --&gt;
+&lt;h2 id=&#34;how-to-cite&#34;&gt;How to cite&lt;/h2&gt;
+&lt;p&gt;Ardia, D., Bluteau, K., Boudt, K. (2019). &lt;strong&gt;Questioning the news about economic growth: Sparse
+forecasting using thousands of news-based sentiment values&lt;/strong&gt;. &lt;em&gt;International Journal of
+Forecasting&lt;/em&gt;, 35, 1370–1386.
+
+&lt;a href=&#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.ijforecast.2018.10.010&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BibTeX is on the 
+&lt;a href=&#34;https://sentometrics-research.com/cite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to cite&lt;/a&gt; page.&lt;/p&gt;
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
+&lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
+risk associated with its use.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full License&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+
+&lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

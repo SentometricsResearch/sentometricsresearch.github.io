@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey | Sentometrics Research</title>
+    <link>/tag/survey/</link>
+      <atom:link href="/tag/survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Survey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Survey</title>
+      <link>/tag/survey/</link>
+    </image>
+    
+    <item>
+      <title>Thirty years of academic finance</title>
+      <link>/publication/thirty-years-academic-finance/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thirty-years-academic-finance/</guid>
+      <description>&lt;p&gt;The field&amp;rsquo;s own literature treated as the corpus. The analysis identifies research topics, traces their prevalence over time and across journals, and finds that most journals have broadened their topical coverage — becoming more generalist.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Econometrics meets sentiment: An overview of methodology and applications</title>
+      <link>/publication/econometrics-meets-sentiment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/econometrics-meets-sentiment/</guid>
+      <description>&lt;p&gt;The reference entry point to sentometrics. It walks through the full chain of an econometric analysis of textual sentiment — corpus construction, sentiment computation, aggregation into time series, and use in a model — and organises the applications across economics, finance and politics.&lt;/p&gt;
+&lt;p&gt;Start here, then read the 
+&lt;a href=&#34;https://sentometrics-research.com/publication/sentometrics-r-package/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;software vignette&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

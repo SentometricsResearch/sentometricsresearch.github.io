@@ -24,7 +24,7 @@
   
     
   
-  <meta name="description" content="Daily Topical U.S Economic Sentiment Indices from 1996 to 2016.">
+  <meta name="description" content="Daily sentiment indices for topics relevant to the U.S. economy, computed with several lexicon-based methods.">
 
   
   <link rel="alternate" hreflang="en-us" href="../../download/us-econ/">
@@ -226,8 +226,8 @@
   
   <meta property="og:site_name" content="Sentometrics Research">
   <meta property="og:url" content="/download/us-econ/">
-  <meta property="og:title" content="U.S Topical Economic Sentiment | Sentometrics Research">
-  <meta property="og:description" content="Daily Topical U.S Economic Sentiment Indices from 1996 to 2016."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:title" content="U.S. Topical Economic Sentiment | Sentometrics Research">
+  <meta property="og:description" content="Daily sentiment indices for topics relevant to the U.S. economy, computed with several lexicon-based methods."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -252,7 +252,7 @@
 
 
 
-  <title>U.S Topical Economic Sentiment | Sentometrics Research</title>
+  <title>U.S. Topical Economic Sentiment | Sentometrics Research</title>
 
 </head>
 
@@ -404,7 +404,123 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../#download"><span>Data</span></a>
+          <a class="nav-link " href="../../#download"><span>Indices</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../#software"><span>Packages</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../#research"><span>Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../#people"><span>Team</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../#transfer"><span>Transfer</span></a>
         </li>
 
         
@@ -434,64 +550,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="../../#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="../../#software"><span>Software</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="../../#research"><span>Research</span></a>
         </li>
 
         
@@ -541,7 +599,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>U.S Topical Economic Sentiment</h1>
+  <h1>U.S. Topical Economic Sentiment</h1>
 
   
 
@@ -555,13 +613,6 @@
   
 
   
-  <span class="article-date">
-    
-    
-      
-    
-    2020-11-14
-  </span>
   
 
   
@@ -600,27 +651,67 @@
   <div class="article-container">
 
     <div class="article-style">
-      <ul>
-<li>Ardia, D., Bluteau, K., Boudt, K. (2019). <strong>Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values</strong>. International Journal of Forecasting 35, 1370-1386. 
-<a href="https://doi.org/10.1016/j.ijforecast.2018.10.010" target="_blank" rel="noopener">Link</a></li>
-</ul>
-<p>The data is made available for academic research. By downloading the data you agree to the following rules.</p>
-<ol>
-<li>
-<p>You must cite the above reference in working papers and published papers that use any of these data.</p>
-</li>
-<li>
-<p>You must place the following url in a footnote to help others find the data: 
-<a href="https://sentometrics-research.com" target="_blank" rel="noopener">https://sentometrics-research.com</a>.</p>
-</li>
-<li>
-<p>You assume all risk for the use of the data.</p>
-</li>
-</ol>
+      <h2 id="what-it-measures">What it measures</h2>
+<p>Daily sentiment for a range of topics relevant to the U.S. economy, computed from a large news
+corpus using several lexicon-based methods. The indices are the empirical output of
+
+<a href="https://sentometrics-research.com/publication/questioning-the-news/" target="_blank" rel="noopener">Questioning the news about economic growth</a>
+(<em>International Journal of Forecasting</em>), which proposes generating thousands of candidate
+sentiment indices and letting a sparse regression select the ones that forecast — the methodology
+that became the 
+<a href="https://sentometrics-research.com/publication/sentometrics-r-package/" target="_blank" rel="noopener">sentometrics</a> R package.</p>
+<p>Winner of the <em>International Journal of Forecasting</em> best paper award 2018–2019.</p>
+<h2 id="coverage">Coverage</h2>
+<!-- TODO équipe : la couverture affichée ici (1996) contredit le billet de blog d'origine,
+     qui indique « from 1993 to 2016 ». À trancher. -->
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Frequency</strong></td>
+<td>Daily</td>
+</tr>
+<tr>
+<td><strong>Period</strong></td>
+<td>1996 – 2016</td>
+</tr>
+<tr>
+<td><strong>Region</strong></td>
+<td>United States</td>
+</tr>
+<tr>
+<td><strong>Series</strong></td>
+<td>One per economic topic, several sentiment methods each</td>
+</tr>
+<tr>
+<td><strong>Format</strong></td>
+<td><code>.csv</code></td>
+</tr>
+</tbody>
+</table>
+<p>Dates missing from the file mean no news articles were available for that date.</p>
+<!-- TODO équipe : ajouter la liste des colonnes du CSV (nom, définition, unité). -->
+<h2 id="how-to-cite">How to cite</h2>
+<p>Ardia, D., Bluteau, K., Boudt, K. (2019). <strong>Questioning the news about economic growth: Sparse
+forecasting using thousands of news-based sentiment values</strong>. <em>International Journal of
+Forecasting</em>, 35, 1370–1386.
+
+<a href="https://doi.org/10.1016/j.ijforecast.2018.10.010" target="_blank" rel="noopener">doi:10.1016/j.ijforecast.2018.10.010</a></p>
+<p>BibTeX is on the 
+<a href="https://sentometrics-research.com/cite/" target="_blank" rel="noopener">How to cite</a> page.</p>
+<h2 id="terms">Terms</h2>
+<p>Free for academic research. By downloading you agree to cite the reference above, to place
+<code>https://sentometrics-research.com</code> in a footnote so others can find the data, and to assume all
+risk associated with its use.</p>
 <p>
-<a href="https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1" target="_blank" rel="noopener">Download file</a></p>
-<p>
-<a href="https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0" target="_blank" rel="noopener">Full License</a></p>
+<a href="https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1" target="_blank" rel="noopener"><strong>Download the data</strong></a> ·
+
+<a href="https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0" target="_blank" rel="noopener">Full licence</a></p>
 
     </div>
 
@@ -643,7 +734,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=../../download/us-econ/&amp;text=U.S%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=../../download/us-econ/&amp;text=U.S.%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -656,7 +747,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/download/us-econ/&amp;t=U.S%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/download/us-econ/&amp;t=U.S.%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -669,7 +760,7 @@
       
       
       <li>
-        <a href="mailto:?subject=U.S%20Topical%20Economic%20Sentiment&amp;body=/download/us-econ/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=U.S.%20Topical%20Economic%20Sentiment&amp;body=/download/us-econ/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -682,7 +773,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=../../download/us-econ/&amp;title=U.S%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=../../download/us-econ/&amp;title=U.S.%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -695,7 +786,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=U.S%20Topical%20Economic%20Sentiment%20/download/us-econ/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=U.S.%20Topical%20Economic%20Sentiment%20/download/us-econ/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -708,7 +799,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=../../download/us-econ/&amp;title=U.S%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=../../download/us-econ/&amp;title=U.S.%20Topical%20Economic%20Sentiment" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

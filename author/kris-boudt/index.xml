@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kris Boudt | Sentometrics Research</title>
+    <link>/author/kris-boudt/</link>
+      <atom:link href="/author/kris-boudt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kris Boudt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kris Boudt</title>
+      <link>/author/kris-boudt/</link>
+    </image>
+    
+    <item>
+      <title>Climate change concerns and the performance of green versus brown stocks</title>
+      <link>/publication/climate-change-concerns/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/climate-change-concerns/</guid>
+      <description>&lt;p&gt;Concern about climate change is not observable, so it has to be proxied. The paper builds a daily index from major US newspapers and newswires that combines the level of risk and the sentiment expressed in climate-related articles, weighted by media attention, and shows that unexpected increases in that index move green stocks relative to brown ones.&lt;/p&gt;
+&lt;p&gt;The index behind the paper is the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Media Climate Change Concerns index&lt;/a&gt;, updated annually. National Bank of Belgium research award 2020. Covered by &lt;em&gt;The New York Times&lt;/em&gt; in November 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media abnormal tone, earnings announcements, and the stock market</title>
+      <link>/publication/media-abnormal-tone/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/media-abnormal-tone/</guid>
+      <description>&lt;p&gt;The paper extends the event-study framework to analyse cumulative abnormal &lt;em&gt;tone&lt;/em&gt; alongside cumulative abnormal return, and uses structural topic modelling to show where media coverage differs in content from corporate disclosure. The media&amp;rsquo;s contribution comes from recontextualising and condensing earnings information rather than from reporting new facts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The R package sentometrics to compute, aggregate, and predict with textual sentiment</title>
+      <link>/publication/sentometrics-r-package/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/sentometrics-r-package/</guid>
+      <description>&lt;p&gt;Textual sentiment can be computed in many ways, and pooled into a time series in many more. The package treats that multiplicity as the problem to be solved rather than a nuisance: it computes sentiment, generates many candidate aggregation schemes, and selects among them within the prediction step.&lt;/p&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://sentometricsresearch.github.io/sentometrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The economic policy uncertainty index for Flanders, Wallonia and Belgium</title>
+      <link>/publication/epu-belgium/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/epu-belgium/</guid>
+      <description>&lt;p&gt;The index is derived daily from major Belgian newspapers in French and Dutch since 2001, using triplets of economy / policy / uncertainty keywords defined by a combination of expert judgment and NLP. A 2021 revision made the index more local to Belgium and better aligned across the two languages.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sentometrics-research.com/download/epu-belgium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Econometrics meets sentiment: An overview of methodology and applications</title>
+      <link>/publication/econometrics-meets-sentiment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/econometrics-meets-sentiment/</guid>
+      <description>&lt;p&gt;The reference entry point to sentometrics. It walks through the full chain of an econometric analysis of textual sentiment — corpus construction, sentiment computation, aggregation into time series, and use in a model — and organises the applications across economics, finance and politics.&lt;/p&gt;
+&lt;p&gt;Start here, then read the 
+&lt;a href=&#34;https://sentometrics-research.com/publication/sentometrics-r-package/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;software vignette&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values</title>
+      <link>/publication/questioning-the-news/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/questioning-the-news/</guid>
+      <description>&lt;p&gt;Rather than committing to one way of turning news into a sentiment index, the paper generates thousands of candidate indices and lets a sparse regression select the ones that forecast. Winner of the &lt;em&gt;International Journal of Forecasting&lt;/em&gt; best paper award 2018–2019.&lt;/p&gt;
+&lt;p&gt;The daily topical sentiment indices are 
+&lt;a href=&#34;https://sentometrics-research.com/download/us-econ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available for download&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jockeying for position in CEO letters: Impression management and sentiment analytics</title>
+      <link>/publication/jockeying-ceo-letters/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jockeying-ceo-letters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When does the tone of earnings press releases matter?</title>
+      <link>/publication/tone-earnings-press-releases/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tone-earnings-press-releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managers set the tone: Equity incentives and the tone of earnings press releases</title>
+      <link>/publication/managers-set-the-tone/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/managers-set-the-tone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

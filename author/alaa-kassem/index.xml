@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alaa Kassem | Sentometrics Research</title>
+    <link>/author/alaa-kassem/</link>
+      <atom:link href="/author/alaa-kassem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alaa Kassem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alaa Kassem</title>
+      <link>/author/alaa-kassem/</link>
+    </image>
+    
+    <item>
+      <title>A century of economic policy uncertainty through the French-Canadian lens</title>
+      <link>/publication/epu-quebec/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/epu-quebec/</guid>
+      <description>&lt;p&gt;Historical archives break the standard EPU recipe: issues are often digitised as whole editions rather than individual articles, and source availability shifts over the century. The paper proposes a token-distance-based triple detection and a dynamic normalisation across sources, and shows the resulting index nowcasts Canadian and Quebec macroeconomic variables better than the existing Canadian EPU.&lt;/p&gt;
+&lt;p&gt;Built with archives from Bibliothèque et Archives nationales du Québec and a research collaboration with Radio-Canada. 
+&lt;a href=&#34;https://sentometrics-research.com/download/epu-quebec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

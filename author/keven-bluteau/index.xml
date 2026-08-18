@@ -5,7 +5,7 @@
     <link>/author/keven-bluteau/</link>
       <atom:link href="/author/keven-bluteau/index.xml" rel="self" type="application/rss+xml" />
     <description>Keven Bluteau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Keven Bluteau</title>
@@ -13,20 +13,46 @@
     </image>
     
     <item>
+      <title>Optimal text-based time-series indices</title>
+      <link>/publication/optimal-text-based-indices/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/optimal-text-based-indices/</guid>
+      <description>&lt;p&gt;The most recent methodological instalment of the sentometrics programme: rather than selecting among pre-specified index constructions, the index itself is optimised for the series it is meant to explain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>When social risks matter: Retail fund flows and social concern</title>
+      <link>/publication/social-risks-fund-flows/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/social-risks-fund-flows/</guid>
+      <description>&lt;p&gt;Work in progress with the University of Liège.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2025 Update on the Media Climate Change Concerns Index</title>
       <link>/post/2025-climate-change/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/post/2025-climate-change/</guid>
-      <description>
-
-
-&lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to June 2025. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
+      <description>&lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to June 2025. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
 &lt;p&gt;We have extended the MCCC index and its subindices (topical and thematic) beyond their updated timeframe of 2003 to June 2024, now encompassing data up to June 2025. This update provides one year of additional data, allowing for a more comprehensive understanding of media coverage of climate change.&lt;/p&gt;
 &lt;p&gt;No methodological change was required for this update (for the changes compared to the original index, see the 2023 update)&lt;/p&gt;
 &lt;p&gt;We hope this update will enhance the utility of the Media Climate Change Concerns Index, empowering academic researchers and industry practitioners to gain deeper insights into the evolving landscape of media coverage of climate change.&lt;/p&gt;
 &lt;p&gt;Please refer to this article when using the index in your research:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thirty years of academic finance</title>
+      <link>/publication/thirty-years-academic-finance/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thirty-years-academic-finance/</guid>
+      <description>&lt;p&gt;The field&amp;rsquo;s own literature treated as the corpus. The analysis identifies research topics, traces their prevalence over time and across journals, and finds that most journals have broadened their topical coverage — becoming more generalist.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,16 +61,35 @@
       <link>/post/2024-climate-change/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>/post/2024-climate-change/</guid>
-      <description>
-
-
-&lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to June 2024. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
+      <description>&lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to June 2024. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
 &lt;p&gt;We have extended the MCCC index and its subindices (topical and thematic) beyond their updated timeframe of 2003 to August 2022, now encompassing data up to June 2024. This update provides approximately two years of additional data, allowing for a more comprehensive understanding of media coverage of climate change.&lt;/p&gt;
 &lt;p&gt;No methodological change was required for this update (for the changes compared to the original index, see the 2023 update)&lt;/p&gt;
 &lt;p&gt;We hope this update will enhance the utility of the Media Climate Change Concerns Index, empowering academic researchers and industry practitioners to gain deeper insights into the evolving landscape of media coverage of climate change.&lt;/p&gt;
 &lt;p&gt;Please refer to this article when using the index in your research:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twitter and cryptocurrency pump-and-dumps</title>
+      <link>/publication/twitter-pump-and-dumps/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/twitter-pump-and-dumps/</guid>
+      <description>&lt;p&gt;Sentometric tools applied to a setting where the manipulation of attention is the phenomenon itself rather than a confound.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate change concerns and the performance of green versus brown stocks</title>
+      <link>/publication/climate-change-concerns/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/climate-change-concerns/</guid>
+      <description>&lt;p&gt;Concern about climate change is not observable, so it has to be proxied. The paper builds a daily index from major US newspapers and newswires that combines the level of risk and the sentiment expressed in climate-related articles, weighted by media attention, and shows that unexpected increases in that index move green stocks relative to brown ones.&lt;/p&gt;
+&lt;p&gt;The index behind the paper is the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Media Climate Change Concerns index&lt;/a&gt;, updated annually. National Bank of Belgium research award 2020. Covered by &lt;em&gt;The New York Times&lt;/em&gt; in November 2021.&lt;/p&gt;
 </description>
     </item>
     
@@ -53,10 +98,7 @@
       <link>/post/2023-climate-change/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/post/2023-climate-change/</guid>
-      <description>
-
-
-&lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to August 2022. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
+      <description>&lt;p&gt;Update of the Media Climate Change Concerns (MCCC) index! The index ranges now from January 2003 to August 2022. The MCCC is constructed from major U.S. newspapers and newswires to proxy for climate change concerns. Check our work published at Management Science for details.&lt;/p&gt;
 &lt;p&gt;We have extended the MCCC index and its subindices (topical and thematic) beyond their original timeframe of 2003 to June 2018, now encompassing data up to August 2022. This update provides approximately four years of additional data, allowing for a more comprehensive understanding of media coverage of climate change.&lt;/p&gt;
 &lt;p&gt;To ensure consistency and accuracy, we have diligently followed the same procedure used to generate the original dataset while accounting for necessary changes in methodology for the new data (from July 2018 to August 2022).&lt;/p&gt;
 &lt;p&gt;We want to highlight a few key points regarding the update process:&lt;/p&gt;
@@ -67,9 +109,19 @@
 &lt;p&gt;For the topical and thematic indices, we used the same model trained with 2003-2018 data to compute the topicality of the updated indices. This approach ensures continuity in the topical model, allowing for meaningful comparisons between the new and previous data.&lt;/p&gt;
 &lt;p&gt;We hope this update will enhance the utility of the Media Climate Change Concerns Index, empowering academic researchers and industry practitioners to gain deeper insights into the evolving landscape of media coverage of climate change.&lt;/p&gt;
 &lt;p&gt;Please refer to this article when using the index in your research:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Factor exposure heterogeneity in green and brown stocks</title>
+      <link>/publication/factor-exposure-green-brown/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/factor-exposure-green-brown/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -77,15 +129,31 @@
       <link>/post/2212-ms/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/post/2212-ms/</guid>
-      <description>
-
-
-&lt;p&gt;Our paper &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt; is now available online in open access at Management Science!&lt;/p&gt;
+      <description>&lt;p&gt;Our paper &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt; is now available online in open access at Management Science!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (202x). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. Management Science, Forthcoming &lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34;&gt;Article&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (202x). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. Management Science, Forthcoming 
+&lt;a href=&#34;https://doi.org/10.1287/mnsc.2022.4636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How easy is it for investment managers to deploy their talent in green and brown stocks?</title>
+      <link>/publication/deploy-talent-green-brown/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/deploy-talent-green-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media abnormal tone, earnings announcements, and the stock market</title>
+      <link>/publication/media-abnormal-tone/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/media-abnormal-tone/</guid>
+      <description>&lt;p&gt;The paper extends the event-study framework to analyse cumulative abnormal &lt;em&gt;tone&lt;/em&gt; alongside cumulative abnormal return, and uses structural topic modelling to show where media coverage differs in content from corporate disclosure. The media&amp;rsquo;s contribution comes from recontextualising and condensing earnings information rather than from reporting new facts.&lt;/p&gt;
 </description>
     </item>
     
@@ -99,6 +167,28 @@
 &lt;p&gt;Overall, this results in a more aligned and correlated French- and Dutch-specific EPU index. This update also eliminates unwarranted disparities between the EPU index of each language.&lt;/p&gt;
 &lt;p&gt;Download the data 
 &lt;a href=&#34;https://sentometrics-research.com/download/epu-belgium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A century of economic policy uncertainty through the French-Canadian lens</title>
+      <link>/publication/epu-quebec/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/epu-quebec/</guid>
+      <description>&lt;p&gt;Historical archives break the standard EPU recipe: issues are often digitised as whole editions rather than individual articles, and source availability shifts over the century. The paper proposes a token-distance-based triple detection and a dynamic normalisation across sources, and shows the resulting index nowcasts Canadian and Quebec macroeconomic variables better than the existing Canadian EPU.&lt;/p&gt;
+&lt;p&gt;Built with archives from Bibliothèque et Archives nationales du Québec and a research collaboration with Radio-Canada. 
+&lt;a href=&#34;https://sentometrics-research.com/download/epu-quebec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The R package sentometrics to compute, aggregate, and predict with textual sentiment</title>
+      <link>/publication/sentometrics-r-package/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/sentometrics-r-package/</guid>
+      <description>&lt;p&gt;Textual sentiment can be computed in many ways, and pooled into a time series in many more. The package treats that multiplicity as the problem to be solved rather than a nuisance: it computes sentiment, generates many candidate aggregation schemes, and selects among them within the prediction step.&lt;/p&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://sentometricsresearch.github.io/sentometrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package site&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -138,19 +228,19 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
       <link>/post/2011-climate-change/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/post/2011-climate-change/</guid>
-      <description>
-
-
-&lt;p&gt;Many consider climate change as one of the biggest challenges of our times. However, there is disagreement on the magnitude of the climate change problem and how to solve it. Conditional on their view on the issue, some people may have a high preference for sustainable solutions and investments tackling the climate change problem, while others may not. Moreover, these preferences can evolve on the arrival of new information. In general, preference for sustainable solutions is largely a function of how concerned people are about climate change.&lt;/p&gt;
-&lt;p&gt;Discerning concerns about climate change in almost real-time can be useful for many applications, particularly asset pricing. The theoretical model proposed by &lt;a href=&#34;https://www.nber.org/papers/w26549&#34;&gt;Pastor et al. (2020)&lt;/a&gt; implies that the returns of green stocks vs. the returns of brown stocks are a function of the unexpected changes in climate change concerns. In particular, when there is an unexpected increase in climate change concerns, green stocks outperform brown stocks.&lt;/p&gt;
-&lt;p&gt;However, an issue is that the level of concern about climate change cannot be observed and needs to be proxied. This fact renders the analysis of the dynamics of climate change concerns more complicated than the analysis of observable macroeconomic variables such as GDP growth. Here, we propose an index derived from major U.S newspapers to proxy for change in climate change concerns. Our corpus, or set of news articles, about climate change to derive this index can be summarized in multiple topics and themes, for which the most representative words are shown below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;topics.png&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Many consider climate change as one of the biggest challenges of our times. However, there is disagreement on the magnitude of the climate change problem and how to solve it. Conditional on their view on the issue, some people may have a high preference for sustainable solutions and investments tackling the climate change problem, while others may not. Moreover, these preferences can evolve on the arrival of new information. In general, preference for sustainable solutions is largely a function of how concerned people are about climate change.&lt;/p&gt;
+&lt;p&gt;Discerning concerns about climate change in almost real-time can be useful for many applications, particularly asset pricing. The theoretical model proposed by 
+&lt;a href=&#34;https://www.nber.org/papers/w26549&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pastor et al. (2020)&lt;/a&gt;  implies that the returns of green stocks vs. the returns of brown stocks are a function of the unexpected changes in climate change concerns. In particular, when there is an unexpected increase in climate change concerns, green stocks outperform brown stocks.&lt;/p&gt;
+&lt;p&gt;However, an issue is that the level of concern about climate change cannot be observed and needs to be proxied. This fact renders the analysis of the dynamics of climate change concerns more complicated than the analysis of observable macroeconomic variables such as GDP growth. Here, we propose an index derived from major U.S newspapers to proxy for change in climate change concerns. Our corpus, or set of news articles, about climate change  to derive this index can be summarized in  multiple topics and themes, for which the most representative words are shown below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;topics.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;To build our indices, we first propose a concern score: A combination of the level of risk and the sentiment expressed in news media articles. We then compute the concerns score for all news articles about climate change in the corpus. Finally, we aggregate those concerns score into a daily index. We explicitly consider the news media’s attention to climate change during the news articles’ concerns score aggregation process. Indeed, there is a higher probability of the true change in climate change concerns when there is both concerning news articles and a high media attention level.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Check out the paper on this index!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2020). &lt;strong&gt;Climate change concerns and the performance of green versus brown stocks&lt;/strong&gt;. National Bank of Belgium, Working Paper Research, October 2020 No 395 
+&lt;a href=&#34;https://doi.org/10.2139/ssrn.3717722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Download the data &lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the data 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -188,7 +278,29 @@ nowcasting major Canadian and Quebec macroeconomic variables.&lt;/p&gt;
 &lt;a href=&#34;https://doi.org/10.2139/ssrn.3580000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Download the data 
-&lt;a href=&#34;https://sentometrics-research.com/download/epu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://sentometrics-research.com/download/epu-belgium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Econometrics meets sentiment: An overview of methodology and applications</title>
+      <link>/publication/econometrics-meets-sentiment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/econometrics-meets-sentiment/</guid>
+      <description>&lt;p&gt;The reference entry point to sentometrics. It walks through the full chain of an econometric analysis of textual sentiment — corpus construction, sentiment computation, aggregation into time series, and use in a model — and organises the applications across economics, finance and politics.&lt;/p&gt;
+&lt;p&gt;Start here, then read the 
+&lt;a href=&#34;https://sentometrics-research.com/publication/sentometrics-r-package/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;software vignette&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values</title>
+      <link>/publication/questioning-the-news/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/questioning-the-news/</guid>
+      <description>&lt;p&gt;Rather than committing to one way of turning news into a sentiment index, the paper generates thousands of candidate indices and lets a sparse regression select the ones that forecast. Winner of the &lt;em&gt;International Journal of Forecasting&lt;/em&gt; best paper award 2018–2019.&lt;/p&gt;
+&lt;p&gt;The daily topical sentiment indices are 
+&lt;a href=&#34;https://sentometrics-research.com/download/us-econ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available for download&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

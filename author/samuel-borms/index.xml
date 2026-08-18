@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Borms | Sentometrics Research</title>
+    <link>/author/samuel-borms/</link>
+      <atom:link href="/author/samuel-borms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel Borms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Samuel Borms</title>
+      <link>/author/samuel-borms/</link>
+    </image>
+    
+    <item>
+      <title>The R package sentometrics to compute, aggregate, and predict with textual sentiment</title>
+      <link>/publication/sentometrics-r-package/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/sentometrics-r-package/</guid>
+      <description>&lt;p&gt;Textual sentiment can be computed in many ways, and pooled into a time series in many more. The package treats that multiplicity as the problem to be solved rather than a nuisance: it computes sentiment, generates many candidate aggregation schemes, and selects among them within the prediction step.&lt;/p&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://sentometricsresearch.github.io/sentometrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The economic policy uncertainty index for Flanders, Wallonia and Belgium</title>
+      <link>/publication/epu-belgium/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/epu-belgium/</guid>
+      <description>&lt;p&gt;The index is derived daily from major Belgian newspapers in French and Dutch since 2001, using triplets of economy / policy / uncertainty keywords defined by a combination of expert judgment and NLP. A 2021 revision made the index more local to Belgium and better aligned across the two languages.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sentometrics-research.com/download/epu-belgium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Econometrics meets sentiment: An overview of methodology and applications</title>
+      <link>/publication/econometrics-meets-sentiment/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/econometrics-meets-sentiment/</guid>
+      <description>&lt;p&gt;The reference entry point to sentometrics. It walks through the full chain of an econometric analysis of textual sentiment — corpus construction, sentiment computation, aggregation into time series, and use in a model — and organises the applications across economics, finance and politics.&lt;/p&gt;
+&lt;p&gt;Start here, then read the 
+&lt;a href=&#34;https://sentometrics-research.com/publication/sentometrics-r-package/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;software vignette&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

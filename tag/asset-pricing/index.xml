@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asset pricing | Sentometrics Research</title>
+    <link>/tag/asset-pricing/</link>
+      <atom:link href="/tag/asset-pricing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asset pricing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Asset pricing</title>
+      <link>/tag/asset-pricing/</link>
+    </image>
+    
+    <item>
+      <title>When social risks matter: Retail fund flows and social concern</title>
+      <link>/publication/social-risks-fund-flows/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/social-risks-fund-flows/</guid>
+      <description>&lt;p&gt;Work in progress with the University of Liège.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twitter and cryptocurrency pump-and-dumps</title>
+      <link>/publication/twitter-pump-and-dumps/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/twitter-pump-and-dumps/</guid>
+      <description>&lt;p&gt;Sentometric tools applied to a setting where the manipulation of attention is the phenomenon itself rather than a confound.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate change concerns and the performance of green versus brown stocks</title>
+      <link>/publication/climate-change-concerns/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/climate-change-concerns/</guid>
+      <description>&lt;p&gt;Concern about climate change is not observable, so it has to be proxied. The paper builds a daily index from major US newspapers and newswires that combines the level of risk and the sentiment expressed in climate-related articles, weighted by media attention, and shows that unexpected increases in that index move green stocks relative to brown ones.&lt;/p&gt;
+&lt;p&gt;The index behind the paper is the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Media Climate Change Concerns index&lt;/a&gt;, updated annually. National Bank of Belgium research award 2020. Covered by &lt;em&gt;The New York Times&lt;/em&gt; in November 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Factor exposure heterogeneity in green and brown stocks</title>
+      <link>/publication/factor-exposure-green-brown/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/factor-exposure-green-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How easy is it for investment managers to deploy their talent in green and brown stocks?</title>
+      <link>/publication/deploy-talent-green-brown/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/deploy-talent-green-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media abnormal tone, earnings announcements, and the stock market</title>
+      <link>/publication/media-abnormal-tone/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/media-abnormal-tone/</guid>
+      <description>&lt;p&gt;The paper extends the event-study framework to analyse cumulative abnormal &lt;em&gt;tone&lt;/em&gt; alongside cumulative abnormal return, and uses structural topic modelling to show where media coverage differs in content from corporate disclosure. The media&amp;rsquo;s contribution comes from recontextualising and condensing earnings information rather than from reporting new facts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
