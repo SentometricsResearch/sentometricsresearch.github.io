@@ -54,6 +54,24 @@
     </item>
     
     <item>
+      <title>Does Unexpected Change in Climate Risk Concerns Affect IV Surface Dynamics? A VAR Approach Using the UMC Index</title>
+      <link>/publication/thesis-tong/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-tong/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategies to Monetize the Sentiment Extracted With NLP Techniques From Earnings Call Transcripts</title>
+      <link>/publication/thesis-seguin/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-seguin/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>When social risks matter: Retail fund flows and social concern</title>
       <link>/publication/social-risks-fund-flows/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
@@ -200,6 +218,26 @@ risk associated with its use.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Examining the Relation Between Stocks&#39; Option-Implied Moments and Climate Change Concerns</title>
+      <link>/publication/thesis-boyer/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-boyer/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia. Built on the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCCC index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Climate Change Concerns on the Volatility of Green and Brown Stocks</title>
+      <link>/publication/thesis-bhaya/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-bhaya/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia. Built on the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCCC index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Thirty years of academic finance</title>
       <link>/publication/thirty-years-academic-finance/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -231,6 +269,16 @@ risk associated with its use.&lt;/p&gt;
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/publication/twitter-pump-and-dumps/</guid>
       <description>&lt;p&gt;Sentometric tools applied to a setting where the manipulation of attention is the phenomenon itself rather than a confound.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weathering the Markets: Exploring the Empirical Relationship Between Climate Change Concerns and Commodity Futures Contracts</title>
+      <link>/publication/thesis-pimentel/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-pimentel/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia. Built on the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCCC index&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -298,6 +346,15 @@ risk associated with its use.&lt;/p&gt;
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/deploy-talent-green-brown/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Textual Sentiment Scores in Value-at-Risk Models</title>
+      <link>/publication/thesis-casigay/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-casigay/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -860,6 +917,16 @@ sentiment variables, and to use those variables in an econometric analysis of th
     </item>
     
     <item>
+      <title>Sentiment and Econometrics: Toward a Unified Framework of Textual Sentiment Analysis for Economic and Financial Applications</title>
+      <link>/publication/thesis-borms/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-borms/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia and Kris Boudt. Samuel is the author and maintainer of the 
+&lt;a href=&#34;https://sentometrics-research.com/publication/sentometrics-r-package/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sentometrics R package&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Econometrics meets sentiment: An overview of methodology and applications</title>
       <link>/publication/econometrics-meets-sentiment/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -878,6 +945,15 @@ sentiment variables, and to use those variables in an econometric analysis of th
       <description>&lt;p&gt;Rather than committing to one way of turning news into a sentiment index, the paper generates thousands of candidate indices and lets a sparse regression select the ones that forecast. Winner of the &lt;em&gt;International Journal of Forecasting&lt;/em&gt; best paper award 2018–2019.&lt;/p&gt;
 &lt;p&gt;The daily topical sentiment indices are 
 &lt;a href=&#34;https://sentometrics-research.com/download/us-econ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available for download&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling Latent Variables in Economics and Finance</title>
+      <link>/publication/thesis-bluteau/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-bluteau/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia and Kris Boudt.&lt;/p&gt;
 </description>
     </item>
     

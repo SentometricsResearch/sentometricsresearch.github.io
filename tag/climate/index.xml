@@ -5,12 +5,60 @@
     <link>/tag/climate/</link>
       <atom:link href="/tag/climate/index.xml" rel="self" type="application/rss+xml" />
     <description>Climate</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Climate</title>
       <link>/tag/climate/</link>
     </image>
+    
+    <item>
+      <title>Does Unexpected Change in Climate Risk Concerns Affect IV Surface Dynamics? A VAR Approach Using the UMC Index</title>
+      <link>/publication/thesis-tong/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-tong/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>When social risks matter: Retail fund flows and social concern</title>
+      <link>/publication/social-risks-fund-flows/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/social-risks-fund-flows/</guid>
+      <description>&lt;p&gt;Work in progress with the University of Liège.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Examining the Relation Between Stocks&#39; Option-Implied Moments and Climate Change Concerns</title>
+      <link>/publication/thesis-boyer/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-boyer/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia. Built on the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCCC index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Climate Change Concerns on the Volatility of Green and Brown Stocks</title>
+      <link>/publication/thesis-bhaya/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-bhaya/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia. Built on the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCCC index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weathering the Markets: Exploring the Empirical Relationship Between Climate Change Concerns and Commodity Futures Contracts</title>
+      <link>/publication/thesis-pimentel/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-pimentel/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia. Built on the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCCC index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Climate change concerns and the performance of green versus brown stocks</title>

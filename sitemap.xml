@@ -74,7 +74,22 @@
   </url>
   
   <url>
+    <loc>/publication-type/7/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/asset-pricing/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/benjamin-seguin/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/climate/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,12 +99,27 @@
   </url>
   
   <url>
+    <loc>/publication/thesis-tong/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/marie-lambert/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/social-media/</loc>
+    <loc>/author/shihao-tong/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis-seguin/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/textual-sentiment/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,7 +149,32 @@
   </url>
   
   <url>
+    <loc>/publication/thesis-boyer/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-boyer/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis-bhaya/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kriti-bhaya/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/mohammad-abbas-meghani/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/risk-modeling/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,8 +204,13 @@
   </url>
   
   <url>
-    <loc>/tag/climate/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <loc>/author/michael-pimentel/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis-pimentel/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -196,6 +256,16 @@
   <url>
     <loc>/publication/deploy-talent-green-brown/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis-casigay/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jaime-casigay/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -344,6 +414,11 @@
   </url>
   
   <url>
+    <loc>/publication/thesis-borms/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/econometrics-meets-sentiment/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -351,6 +426,11 @@
   <url>
     <loc>/publication/questioning-the-news/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis-bluteau/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

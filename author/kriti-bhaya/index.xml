@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kriti Bhaya | Sentometrics Research</title>
+    <link>/author/kriti-bhaya/</link>
+      <atom:link href="/author/kriti-bhaya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kriti Bhaya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kriti Bhaya</title>
+      <link>/author/kriti-bhaya/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Climate Change Concerns on the Volatility of Green and Brown Stocks</title>
+      <link>/publication/thesis-bhaya/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-bhaya/</guid>
+      <description>&lt;p&gt;Supervised by David Ardia. Built on the 
+&lt;a href=&#34;https://sentometrics-research.com/download/mccc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCCC index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
