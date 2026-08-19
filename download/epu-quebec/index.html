@@ -222,8 +222,8 @@
   <meta property="og:site_name" content="Sentometrics Research">
   <meta property="og:url" content="/download/epu-quebec/">
   <meta property="og:title" content="EPU Quebec | Sentometrics Research">
-  <meta property="og:description" content="Monthly economic policy uncertainty for Quebec, built from French-Canadian newspaper archives. A century of data."><meta property="og:image" content="/img/sentometrics-logo-full.png">
-  <meta property="twitter:image" content="/img/sentometrics-logo-full.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Monthly economic policy uncertainty for Quebec, built from French-Canadian newspaper archives. A century of data."><meta property="og:image" content="/download/epu-quebec/featured.png">
+  <meta property="twitter:image" content="/download/epu-quebec/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-02-02T00:00:00&#43;00:00">
@@ -559,18 +559,24 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
   <h1>EPU Quebec</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -594,22 +600,29 @@
 
 </div>
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 600px; max-height: 150px;">
+  <div style="position: relative">
+    <img src="../../download/epu-quebec/featured.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -673,9 +686,22 @@ French-Canadian lens</strong>. <em>Economics Letters</em>, 205, 109938.
 <p>Free for academic research. By downloading you agree to cite the reference above, to place
 <code>https://sentometrics-research.com</code> in a footnote so others can find the data, and to assume all
 risk associated with its use.</p>
-<p>
-<a href="https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1" target="_blank" rel="noopener"><strong>Download the data</strong></a> ·
+<h3 id="download">Download</h3>
+<ul>
+<li>
+<a href="https://sentometrics-research.com/data/epu-quebec/epu-quebec-monthly.csv.gz" target="_blank" rel="noopener"><code>epu-quebec-monthly.csv.gz</code></a> — monthly</li>
+</ul>
+<p>Gzipped CSV, one header row, ISO 8601 dates. No decompression step needed:</p>
+<pre><code class="language-r">read.csv(gzfile(url(&quot;https://sentometrics-research.com/data/epu-quebec/epu-quebec-monthly.csv.gz&quot;)))
+</code></pre>
+<p>See the 
+<a href="https://sentometrics-research.com/data/epu-quebec/README.md" target="_blank" rel="noopener">folder README</a> for every column, and
 
+<a href="https://sentometrics-research.com/data/README.md" target="_blank" rel="noopener">what differs</a> from the archived original.</p>
+<p><strong>Original as published</strong> — the file this is derived from, byte for byte:
+
+<a href="https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1" target="_blank" rel="noopener"><code>Sentometrics_EPU_QUEBEC.csv</code></a>. It will move to a Zenodo deposit with a citable DOI.</p>
+<p>
 <a href="https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0" target="_blank" rel="noopener">Full licence</a></p>
 <!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
      Search rather than only through the paper. Goldmark passes raw HTML through
@@ -721,8 +747,8 @@ risk associated with its use.</p>
   "distribution": [
     {
       "@type": "DataDownload",
-      "encodingFormat": "text/csv",
-      "contentUrl": "https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1"
+      "encodingFormat": "application/gzip",
+      "contentUrl": "https://sentometrics-research.com/data/epu-quebec/epu-quebec-monthly.csv.gz"
     }
   ]
 }

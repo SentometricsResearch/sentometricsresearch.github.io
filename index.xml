@@ -192,9 +192,24 @@ performance of green versus brown stocks&lt;/strong&gt;. &lt;em&gt;Management Sc
 &lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
 &lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
 risk associated with its use.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sentometrics-research.com/data/mccc/mccc-2025-update-daily.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;mccc-2025-update-daily.csv.gz&lt;/code&gt;&lt;/a&gt; — 2025 vintage, daily&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sentometrics-research.com/data/mccc/mccc-2025-update-monthly.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;mccc-2025-update-monthly.csv.gz&lt;/code&gt;&lt;/a&gt; — 2025 vintage, monthly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gzipped CSV, one header row, ISO 8601 dates. No decompression step needed:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;read.csv(gzfile(url(&amp;quot;https://sentometrics-research.com/data/mccc/mccc-2025-update-daily.csv.gz&amp;quot;)))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://sentometrics-research.com/data/mccc/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folder README&lt;/a&gt; for every column, and
 
+&lt;a href=&#34;https://sentometrics-research.com/data/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;what differs&lt;/a&gt; from the archived original.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Original as published&lt;/strong&gt; — the file this is derived from, byte for byte:
+
+&lt;a href=&#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Sentometrics_US_Media_Climate_Change_Index.xlsx&lt;/code&gt;&lt;/a&gt;. It will move to a Zenodo deposit with a citable DOI.&lt;/p&gt;
+&lt;p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
 &lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
      Search rather than only through the paper. Goldmark passes raw HTML through
@@ -241,8 +256,8 @@ risk associated with its use.&lt;/p&gt;
   &#34;distribution&#34;: [
     {
       &#34;@type&#34;: &#34;DataDownload&#34;,
-      &#34;encodingFormat&#34;: &#34;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet&#34;,
-      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34;
+      &#34;encodingFormat&#34;: &#34;application/gzip&#34;,
+      &#34;contentUrl&#34;: &#34;https://sentometrics-research.com/data/mccc/mccc-2025-update-daily.csv.gz&#34;
     }
   ]
 }
@@ -358,8 +373,6 @@ moving average of the daily index is the series most commonly used.&lt;/p&gt;
 international events with no Belgian impact — and handled several specificities of Dutch. The
 French- and Dutch-language indices are more closely aligned as a result.&lt;/p&gt;
 &lt;h2 id=&#34;coverage&#34;&gt;Coverage&lt;/h2&gt;
-&lt;!-- TODO équipe : la couverture affichée ici (2003) contredit le billet de blog d&#39;origine,
-     qui indique « beginning January 2001 ». À trancher avant la prochaine mise à jour. --&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -374,7 +387,7 @@ French- and Dutch-language indices are more closely aligned as a result.&lt;/p&g
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2003 – present&lt;/td&gt;
+&lt;td&gt;3 January 2000 – 22 June 2022&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
@@ -385,11 +398,17 @@ French- and Dutch-language indices are more closely aligned as a result.&lt;/p&g
 &lt;td&gt;Major Belgian newspapers, French and Dutch language&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Series&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Belgium, Dutch-language and French-language, each daily and smoothed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Format&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;.csv&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.csv&lt;/code&gt;, semicolon-separated, comma as decimal mark&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;The series is &lt;strong&gt;not currently maintained&lt;/strong&gt;: it ends on 22 June 2022. Earlier descriptions of this
+index said it was updated daily, which has not been the case since then.&lt;/p&gt;
 &lt;!-- TODO équipe : ajouter la liste des colonnes du CSV (nom, définition, unité). --&gt;
 &lt;h2 id=&#34;how-to-cite&#34;&gt;How to cite&lt;/h2&gt;
 &lt;p&gt;Algaba, A., Borms, S., Boudt, K., Van Pelt, J. (2020). &lt;strong&gt;The economic policy uncertainty index for
@@ -404,9 +423,22 @@ Flanders, Wallonia and Belgium&lt;/strong&gt;. &lt;em&gt;Bank- en Financiewezen&
 &lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
 &lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
 risk associated with its use.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sentometrics-research.com/data/epu-belgium/epu-belgium-daily.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;epu-belgium-daily.csv.gz&lt;/code&gt;&lt;/a&gt; — daily&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gzipped CSV, one header row, ISO 8601 dates. No decompression step needed:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;read.csv(gzfile(url(&amp;quot;https://sentometrics-research.com/data/epu-belgium/epu-belgium-daily.csv.gz&amp;quot;)))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://sentometrics-research.com/data/epu-belgium/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folder README&lt;/a&gt; for every column, and
 
+&lt;a href=&#34;https://sentometrics-research.com/data/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;what differs&lt;/a&gt; from the archived original.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Original as published&lt;/strong&gt; — the file this is derived from, byte for byte:
+
+&lt;a href=&#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Sentometrics_Belgium_EPU.csv&lt;/code&gt;&lt;/a&gt;. It will move to a Zenodo deposit with a citable DOI.&lt;/p&gt;
+&lt;p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
 &lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
      Search rather than only through the paper. Goldmark passes raw HTML through
@@ -429,7 +461,7 @@ risk associated with its use.&lt;/p&gt;
     &#34;Wallonia&#34;,
     &#34;multilingual&#34;
   ],
-  &#34;temporalCoverage&#34;: &#34;2003/..&#34;,
+  &#34;temporalCoverage&#34;: &#34;2000-01-03/2022-06-22&#34;,
   &#34;spatialCoverage&#34;: {
     &#34;@type&#34;: &#34;Place&#34;,
     &#34;name&#34;: &#34;Belgium&#34;
@@ -453,8 +485,8 @@ risk associated with its use.&lt;/p&gt;
   &#34;distribution&#34;: [
     {
       &#34;@type&#34;: &#34;DataDownload&#34;,
-      &#34;encodingFormat&#34;: &#34;text/csv&#34;,
-      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34;
+      &#34;encodingFormat&#34;: &#34;application/gzip&#34;,
+      &#34;contentUrl&#34;: &#34;https://sentometrics-research.com/data/epu-belgium/epu-belgium-daily.csv.gz&#34;
     }
   ]
 }
@@ -545,9 +577,22 @@ French-Canadian lens&lt;/strong&gt;. &lt;em&gt;Economics Letters&lt;/em&gt;, 205
 &lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
 &lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
 risk associated with its use.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sentometrics-research.com/data/epu-quebec/epu-quebec-monthly.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;epu-quebec-monthly.csv.gz&lt;/code&gt;&lt;/a&gt; — monthly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gzipped CSV, one header row, ISO 8601 dates. No decompression step needed:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;read.csv(gzfile(url(&amp;quot;https://sentometrics-research.com/data/epu-quebec/epu-quebec-monthly.csv.gz&amp;quot;)))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://sentometrics-research.com/data/epu-quebec/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folder README&lt;/a&gt; for every column, and
 
+&lt;a href=&#34;https://sentometrics-research.com/data/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;what differs&lt;/a&gt; from the archived original.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Original as published&lt;/strong&gt; — the file this is derived from, byte for byte:
+
+&lt;a href=&#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Sentometrics_EPU_QUEBEC.csv&lt;/code&gt;&lt;/a&gt;. It will move to a Zenodo deposit with a citable DOI.&lt;/p&gt;
+&lt;p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
 &lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
      Search rather than only through the paper. Goldmark passes raw HTML through
@@ -593,8 +638,8 @@ risk associated with its use.&lt;/p&gt;
   &#34;distribution&#34;: [
     {
       &#34;@type&#34;: &#34;DataDownload&#34;,
-      &#34;encodingFormat&#34;: &#34;text/csv&#34;,
-      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34;
+      &#34;encodingFormat&#34;: &#34;application/gzip&#34;,
+      &#34;contentUrl&#34;: &#34;https://sentometrics-research.com/data/epu-quebec/epu-quebec-monthly.csv.gz&#34;
     }
   ]
 }
@@ -629,8 +674,6 @@ that became the
 &lt;a href=&#34;https://sentometrics-research.com/publication/sentometrics-r-package/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sentometrics&lt;/a&gt; R package.&lt;/p&gt;
 &lt;p&gt;Winner of the &lt;em&gt;International Journal of Forecasting&lt;/em&gt; best paper award 2018–2019.&lt;/p&gt;
 &lt;h2 id=&#34;coverage&#34;&gt;Coverage&lt;/h2&gt;
-&lt;!-- TODO équipe : la couverture affichée ici (1996) contredit le billet de blog d&#39;origine,
-     qui indique « from 1993 to 2016 ». À trancher. --&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -645,7 +688,7 @@ that became the
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;1996 – 2016&lt;/td&gt;
+&lt;td&gt;2 January 1994 – 31 December 2017&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
@@ -653,7 +696,7 @@ that became the
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Series&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;One per economic topic, several sentiment methods each&lt;/td&gt;
+&lt;td&gt;One value per date, lexicon and topic — long format, 1.37 million rows&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Format&lt;/strong&gt;&lt;/td&gt;
@@ -675,9 +718,22 @@ Forecasting&lt;/em&gt;, 35, 1370–1386.
 &lt;p&gt;Free for academic research. By downloading you agree to cite the reference above, to place
 &lt;code&gt;https://sentometrics-research.com&lt;/code&gt; in a footnote so others can find the data, and to assume all
 risk associated with its use.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sentometrics-research.com/data/us-econ/us-topical-economic-sentiment.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;us-topical-economic-sentiment.csv.gz&lt;/code&gt;&lt;/a&gt; — daily, long format&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gzipped CSV, one header row, ISO 8601 dates. No decompression step needed:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;read.csv(gzfile(url(&amp;quot;https://sentometrics-research.com/data/us-econ/us-topical-economic-sentiment.csv.gz&amp;quot;)))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://sentometrics-research.com/data/us-econ/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folder README&lt;/a&gt; for every column, and
 
+&lt;a href=&#34;https://sentometrics-research.com/data/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;what differs&lt;/a&gt; from the archived original.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Original as published&lt;/strong&gt; — the file this is derived from, byte for byte:
+
+&lt;a href=&#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Sentometrics_US_Topical_Economic_Sentiment.csv&lt;/code&gt;&lt;/a&gt;. It will move to a Zenodo deposit with a citable DOI.&lt;/p&gt;
+&lt;p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
 &lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
      Search rather than only through the paper. Goldmark passes raw HTML through
@@ -699,7 +755,7 @@ risk associated with its use.&lt;/p&gt;
     &#34;forecasting&#34;,
     &#34;United States&#34;
   ],
-  &#34;temporalCoverage&#34;: &#34;1996/2016&#34;,
+  &#34;temporalCoverage&#34;: &#34;1994-01-02/2017-12-31&#34;,
   &#34;spatialCoverage&#34;: {
     &#34;@type&#34;: &#34;Place&#34;,
     &#34;name&#34;: &#34;United States&#34;
@@ -723,8 +779,8 @@ risk associated with its use.&lt;/p&gt;
   &#34;distribution&#34;: [
     {
       &#34;@type&#34;: &#34;DataDownload&#34;,
-      &#34;encodingFormat&#34;: &#34;text/csv&#34;,
-      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34;
+      &#34;encodingFormat&#34;: &#34;application/gzip&#34;,
+      &#34;contentUrl&#34;: &#34;https://sentometrics-research.com/data/us-econ/us-topical-economic-sentiment.csv.gz&#34;
     }
   ]
 }
