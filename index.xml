@@ -85,7 +85,13 @@
       <link>/download/mccc/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/download/mccc/</guid>
-      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+      <description>
+&lt;figure class=&#34;index-chart-wrap&#34;&gt;
+  &lt;div class=&#34;index-chart&#34; data-src=&#34;./data/mccc/chart.csv&#34;&gt;&lt;/div&gt;
+  &lt;figcaption&gt;Monthly aggregate and the four thematic clusters. Pick a series above; hover for the value. The daily file goes further, down to thirty topical subindices.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
 &lt;p&gt;Concern about climate change is not observable, so it has to be proxied. The &lt;strong&gt;Media Climate Change
 Concerns (MCCC)&lt;/strong&gt; index does this from news: each climate-related article receives a concern score
 combining the level of risk and the sentiment it expresses, and the article-level scores are
@@ -363,7 +369,13 @@ risk associated with its use.&lt;/p&gt;
       <link>/download/epu-belgium/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/download/epu-belgium/</guid>
-      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+      <description>
+&lt;figure class=&#34;index-chart-wrap&#34;&gt;
+  &lt;div class=&#34;index-chart&#34; data-src=&#34;./data/epu-belgium/chart.csv&#34;&gt;&lt;/div&gt;
+  &lt;figcaption&gt;Monthly averages of the smoothed daily series, Belgium and its Dutch-language component. The series ends in June 2022.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
 &lt;p&gt;Economic policy uncertainty for Belgium, derived daily from major Belgian newspapers in French and
 Dutch. The construction detects articles containing triplets of words — one about the economy, one
 about policy, one about uncertainty — with the keyword sets defined by a combination of expert
@@ -521,7 +533,13 @@ risk associated with its use.&lt;/p&gt;
       <link>/download/epu-quebec/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/download/epu-quebec/</guid>
-      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+      <description>
+&lt;figure class=&#34;index-chart-wrap&#34;&gt;
+  &lt;div class=&#34;index-chart&#34; data-src=&#34;./data/epu-quebec/chart.csv&#34;&gt;&lt;/div&gt;
+  &lt;figcaption&gt;Monthly, from 1913. The three tallest peaks are the Great Depression, the 2008 crisis and the COVID-19 pandemic.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
 &lt;p&gt;Economic policy uncertainty — the economic risk that comes from not knowing the future path of
 government policy — measured from &lt;strong&gt;French-Canadian&lt;/strong&gt; sources, which were the missing component of
 the existing Canadian EPU index.&lt;/p&gt;
@@ -663,7 +681,13 @@ risk associated with its use.&lt;/p&gt;
       <link>/download/us-econ/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/download/us-econ/</guid>
-      <description>&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
+      <description>
+&lt;figure class=&#34;index-chart-wrap&#34;&gt;
+  &lt;div class=&#34;index-chart&#34; data-src=&#34;./data/us-econ/chart.csv&#34;&gt;&lt;/div&gt;
+  &lt;figcaption&gt;Monthly mean across the 44 topics, one series per lexicon. The lexicons do not share a scale — compare shapes, not levels.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;what-it-measures&#34;&gt;What it measures&lt;/h2&gt;
 &lt;p&gt;Daily sentiment for a range of topics relevant to the U.S. economy, computed from a large news
 corpus using several lexicon-based methods. The indices are the empirical output of
 
