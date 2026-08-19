@@ -283,9 +283,15 @@
 
 
   
-
-
-
+<script>
+  (function () {
+    try {
+      if (localStorage.getItem('dark_mode') === null) {
+        localStorage.setItem('dark_mode', '0');
+      }
+    } catch (e) {   }
+  })();
+</script>
 
 
   <title>Managers set the tone: Equity incentives and the tone of earnings press releases | Sentometrics Research</title>

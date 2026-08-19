@@ -283,9 +283,15 @@
 
 
   
-
-
-
+<script>
+  (function () {
+    try {
+      if (localStorage.getItem('dark_mode') === null) {
+        localStorage.setItem('dark_mode', '0');
+      }
+    } catch (e) {   }
+  })();
+</script>
 
 
   <title>Strategies to Monetize the Sentiment Extracted With NLP Techniques From Earnings Call Transcripts | Sentometrics Research</title>

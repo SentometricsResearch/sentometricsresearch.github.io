@@ -283,9 +283,15 @@
 
 
   
-
-
-
+<script>
+  (function () {
+    try {
+      if (localStorage.getItem('dark_mode') === null) {
+        localStorage.setItem('dark_mode', '0');
+      }
+    } catch (e) {   }
+  })();
+</script>
 
 
   <title>Does Unexpected Change in Climate Risk Concerns Affect IV Surface Dynamics? A VAR Approach Using the UMC Index | Sentometrics Research</title>

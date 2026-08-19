@@ -283,9 +283,15 @@
 
 
   
-
-
-
+<script>
+  (function () {
+    try {
+      if (localStorage.getItem('dark_mode') === null) {
+        localStorage.setItem('dark_mode', '0');
+      }
+    } catch (e) {   }
+  })();
+</script>
 
 
   <title>When does the tone of earnings press releases matter? | Sentometrics Research</title>
