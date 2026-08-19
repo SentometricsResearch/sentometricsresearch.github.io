@@ -5,9 +5,9 @@
     <link>/author/koen-inghelbrecht/</link>
       <atom:link href="/author/koen-inghelbrecht/index.xml" rel="self" type="application/rss+xml" />
     <description>Koen Inghelbrecht</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2026 Sentometrics Research &amp;middot; [How to cite](/cite/)</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/img/sentometrics-logo-full.png</url>
       <title>Koen Inghelbrecht</title>
       <link>/author/koen-inghelbrecht/</link>
     </image>

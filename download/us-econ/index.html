@@ -66,8 +66,6 @@
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
 
     
 
@@ -188,8 +186,6 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
-  
 
   
   
@@ -219,16 +215,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Sentometrics Research">
   <meta property="og:url" content="/download/us-econ/">
   <meta property="og:title" content="U.S. Topical Economic Sentiment | Sentometrics Research">
-  <meta property="og:description" content="Daily sentiment indices for topics relevant to the U.S. economy, computed with several lexicon-based methods."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
-  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Daily sentiment indices for topics relevant to the U.S. economy, computed with several lexicon-based methods."><meta property="og:image" content="/img/sentometrics-logo-full.png">
+  <meta property="twitter:image" content="/img/sentometrics-logo-full.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-11-14T00:00:00&#43;00:00">
@@ -526,35 +521,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="../../#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -712,6 +678,56 @@ risk associated with its use.</p>
 <a href="https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1" target="_blank" rel="noopener"><strong>Download the data</strong></a> ·
 
 <a href="https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0" target="_blank" rel="noopener">Full licence</a></p>
+<!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
+     Search rather than only through the paper. Goldmark passes raw HTML through
+     (unsafe = true); JSON-LD is valid anywhere in the document. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "U.S. Topical Economic Sentiment Indices",
+  "description": "Daily sentiment indices for topics relevant to the U.S. economy, computed from a large news corpus with several lexicon-based methods. The empirical output of a sparse forecasting approach that generates thousands of candidate sentiment indices and selects those that forecast.",
+  "url": "https://sentometrics-research.com/download/us-econ/",
+  "sameAs": "https://doi.org/10.1016/j.ijforecast.2018.10.010",
+  "license": "https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "textual sentiment",
+    "news",
+    "economic growth",
+    "forecasting",
+    "United States"
+  ],
+  "temporalCoverage": "1996/2016",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "United States"
+  },
+  "creator": {
+    "@type": "Organization",
+    "name": "Sentometrics Research",
+    "url": "https://sentometrics-research.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sentometrics Research",
+    "url": "https://sentometrics-research.com"
+  },
+  "citation": "Ardia, D., Bluteau, K., Boudt, K. (2019). Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values. International Journal of Forecasting, 35(4), 1370–1386.",
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Sentometrics Research",
+    "url": "https://sentometrics-research.com"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1"
+    }
+  ]
+}
+</script>
 
     </div>
 
@@ -843,15 +859,11 @@ risk associated with its use.</p>
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
-        
       
 
     
 
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -942,7 +954,7 @@ risk associated with its use.</p>
   
 
   <p class="powered-by">
-    
+    © 2026 Sentometrics Research · <a href="../../cite/">How to cite</a> &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

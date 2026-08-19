@@ -5,9 +5,9 @@
     <link>/tag/software/</link>
       <atom:link href="/tag/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2026 Sentometrics Research &amp;middot; [How to cite](/cite/)</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/img/sentometrics-logo-full.png</url>
       <title>Software</title>
       <link>/tag/software/</link>
     </image>

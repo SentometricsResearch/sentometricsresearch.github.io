@@ -66,8 +66,6 @@
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
 
     
 
@@ -188,8 +186,6 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
-  
 
   
   
@@ -219,16 +215,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Sentometrics Research">
   <meta property="og:url" content="/download/epu-quebec/">
   <meta property="og:title" content="EPU Quebec | Sentometrics Research">
-  <meta property="og:description" content="Monthly economic policy uncertainty for Quebec, built from French-Canadian newspaper archives. A century of data."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
-  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Monthly economic policy uncertainty for Quebec, built from French-Canadian newspaper archives. A century of data."><meta property="og:image" content="/img/sentometrics-logo-full.png">
+  <meta property="twitter:image" content="/img/sentometrics-logo-full.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-02-02T00:00:00&#43;00:00">
@@ -526,35 +521,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="../../#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -711,6 +677,56 @@ risk associated with its use.</p>
 <a href="https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1" target="_blank" rel="noopener"><strong>Download the data</strong></a> ·
 
 <a href="https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0" target="_blank" rel="noopener">Full licence</a></p>
+<!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
+     Search rather than only through the paper. Goldmark passes raw HTML through
+     (unsafe = true); JSON-LD is valid anywhere in the document. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Economic Policy Uncertainty Index for Quebec",
+  "description": "Monthly economic policy uncertainty index for the Canadian province of Quebec, built from French-Canadian newspaper archives and spanning a century. Uses a token-distance-based triple detection and a dynamic normalisation across sources to handle historical archives digitised by edition rather than by article.",
+  "url": "https://sentometrics-research.com/download/epu-quebec/",
+  "sameAs": "https://doi.org/10.1016/j.econlet.2021.109938",
+  "license": "https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "economic policy uncertainty",
+    "textual analysis",
+    "newspaper archives",
+    "Quebec",
+    "macroeconomics"
+  ],
+  "temporalCoverage": "1913/2020",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Quebec, Canada"
+  },
+  "creator": {
+    "@type": "Organization",
+    "name": "Sentometrics Research",
+    "url": "https://sentometrics-research.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sentometrics Research",
+    "url": "https://sentometrics-research.com"
+  },
+  "citation": "Ardia, D., Bluteau, K., Kassem, A. (2021). A century of economic policy uncertainty through the French-Canadian lens. Economics Letters, 205, 109938.",
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Sentometrics Research",
+    "url": "https://sentometrics-research.com"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1"
+    }
+  ]
+}
+</script>
 
     </div>
 
@@ -842,15 +858,11 @@ risk associated with its use.</p>
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
-        
       
 
     
 
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -941,7 +953,7 @@ risk associated with its use.</p>
   
 
   <p class="powered-by">
-    
+    © 2026 Sentometrics Research · <a href="../../cite/">How to cite</a> &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

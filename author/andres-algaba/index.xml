@@ -5,9 +5,9 @@
     <link>/author/andres-algaba/</link>
       <atom:link href="/author/andres-algaba/index.xml" rel="self" type="application/rss+xml" />
     <description>Andres Algaba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2026 Sentometrics Research &amp;middot; [How to cite](/cite/)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/img/sentometrics-logo-full.png</url>
       <title>Andres Algaba</title>
       <link>/author/andres-algaba/</link>
     </image>

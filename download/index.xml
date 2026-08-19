@@ -5,9 +5,9 @@
     <link>/download/</link>
       <atom:link href="/download/index.xml" rel="self" type="application/rss+xml" />
     <description>Downloads</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2026 Sentometrics Research &amp;middot; [How to cite](/cite/)</copyright><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/img/sentometrics-logo-full.png</url>
       <title>Downloads</title>
       <link>/download/</link>
     </image>
@@ -111,9 +111,8 @@ you actually used.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;The methodological break sits between vintages 2 and 3. If your sample crosses mid-2018, read the
-
-&lt;a href=&#34;https://sentometrics-research.com/post/2023-climate-change/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023 update note&lt;/a&gt; before choosing.&lt;/p&gt;
+&lt;p&gt;The methodological break sits between vintages 2 and 3, and the table above records what changed.
+If your sample crosses mid-2018, pick your vintage accordingly.&lt;/p&gt;
 &lt;h2 id=&#34;how-to-cite&#34;&gt;How to cite&lt;/h2&gt;
 &lt;p&gt;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). &lt;strong&gt;Climate change concerns and the
 performance of green versus brown stocks&lt;/strong&gt;. &lt;em&gt;Management Science&lt;/em&gt;.
@@ -129,6 +128,57 @@ risk associated with its use.&lt;/p&gt;
 &lt;a href=&#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
 
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
+&lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
+     Search rather than only through the paper. Goldmark passes raw HTML through
+     (unsafe = true); JSON-LD is valid anywhere in the document. --&gt;
+&lt;script type=&#34;application/ld+json&#34;&gt;
+{
+  &#34;@context&#34;: &#34;https://schema.org/&#34;,
+  &#34;@type&#34;: &#34;Dataset&#34;,
+  &#34;name&#34;: &#34;Media Climate Change Concerns Index (MCCC)&#34;,
+  &#34;description&#34;: &#34;Daily index of concern about climate change, built from major U.S. newspapers and newswires. Each climate-related article receives a concern score combining the level of risk and the sentiment it expresses; article scores are aggregated into a daily index weighted by media attention. Topical and thematic subindices are provided alongside the headline series.&#34;,
+  &#34;url&#34;: &#34;https://sentometrics-research.com/download/mccc/&#34;,
+  &#34;sameAs&#34;: &#34;https://doi.org/10.1287/mnsc.2022.4636&#34;,
+  &#34;license&#34;: &#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34;,
+  &#34;isAccessibleForFree&#34;: true,
+  &#34;keywords&#34;: [
+    &#34;climate change&#34;,
+    &#34;textual sentiment&#34;,
+    &#34;news media&#34;,
+    &#34;asset pricing&#34;,
+    &#34;green stocks&#34;,
+    &#34;sentometrics&#34;
+  ],
+  &#34;temporalCoverage&#34;: &#34;2003-01/2025-06&#34;,
+  &#34;spatialCoverage&#34;: {
+    &#34;@type&#34;: &#34;Place&#34;,
+    &#34;name&#34;: &#34;United States&#34;
+  },
+  &#34;creator&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;publisher&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;citation&#34;: &#34;Ardia, D., Bluteau, K., Boudt, K., Inghelbrecht, K. (2023). Climate change concerns and the performance of green versus brown stocks. Management Science, 69(12), 7607–7632.&#34;,
+  &#34;includedInDataCatalog&#34;: {
+    &#34;@type&#34;: &#34;DataCatalog&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;distribution&#34;: [
+    {
+      &#34;@type&#34;: &#34;DataDownload&#34;,
+      &#34;encodingFormat&#34;: &#34;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet&#34;,
+      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/scl/fi/uucc6401uje293ofc3ahq/Sentometrics_US_Media_Climate_Change_Index.xlsx?dl=1&amp;rlkey=jvgb6xg9w4ctdz5cdl6qun5md&#34;
+    }
+  ]
+}
+&lt;/script&gt;
 </description>
     </item>
     
@@ -145,9 +195,7 @@ judgment and NLP. Three series are provided: Flanders, Wallonia, and Belgium as 
 moving average of the daily index is the series most commonly used.&lt;/p&gt;
 &lt;p&gt;A &lt;strong&gt;November 2021 revision&lt;/strong&gt; made the index more local to Belgium — and so less driven by
 international events with no Belgian impact — and handled several specificities of Dutch. The
-French- and Dutch-language indices are more closely aligned as a result. See the
-
-&lt;a href=&#34;https://sentometrics-research.com/post/2111-epu-belgium-update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;update note&lt;/a&gt;.&lt;/p&gt;
+French- and Dutch-language indices are more closely aligned as a result.&lt;/p&gt;
 &lt;h2 id=&#34;coverage&#34;&gt;Coverage&lt;/h2&gt;
 &lt;!-- TODO équipe : la couverture affichée ici (2003) contredit le billet de blog d&#39;origine,
      qui indique « beginning January 2001 ». À trancher avant la prochaine mise à jour. --&gt;
@@ -199,6 +247,57 @@ risk associated with its use.&lt;/p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
 
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
+&lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
+     Search rather than only through the paper. Goldmark passes raw HTML through
+     (unsafe = true); JSON-LD is valid anywhere in the document. --&gt;
+&lt;script type=&#34;application/ld+json&#34;&gt;
+{
+  &#34;@context&#34;: &#34;https://schema.org/&#34;,
+  &#34;@type&#34;: &#34;Dataset&#34;,
+  &#34;name&#34;: &#34;Economic Policy Uncertainty Index for Flanders, Wallonia and Belgium&#34;,
+  &#34;description&#34;: &#34;Daily economic policy uncertainty indices for Flanders, Wallonia and Belgium as a whole, derived from major Belgian newspapers in French and Dutch. Articles are detected through triplets of economy, policy and uncertainty terms defined by expert judgment and NLP.&#34;,
+  &#34;url&#34;: &#34;https://sentometrics-research.com/download/epu-belgium/&#34;,
+  &#34;sameAs&#34;: &#34;https://doi.org/10.2139/ssrn.3580000&#34;,
+  &#34;license&#34;: &#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34;,
+  &#34;isAccessibleForFree&#34;: true,
+  &#34;keywords&#34;: [
+    &#34;economic policy uncertainty&#34;,
+    &#34;textual analysis&#34;,
+    &#34;Belgium&#34;,
+    &#34;Flanders&#34;,
+    &#34;Wallonia&#34;,
+    &#34;multilingual&#34;
+  ],
+  &#34;temporalCoverage&#34;: &#34;2003/..&#34;,
+  &#34;spatialCoverage&#34;: {
+    &#34;@type&#34;: &#34;Place&#34;,
+    &#34;name&#34;: &#34;Belgium&#34;
+  },
+  &#34;creator&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;publisher&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;citation&#34;: &#34;Algaba, A., Borms, S., Boudt, K., Van Pelt, J. (2020). The economic policy uncertainty index for Flanders, Wallonia and Belgium. Bank- en Financiewezen, 2020/6.&#34;,
+  &#34;includedInDataCatalog&#34;: {
+    &#34;@type&#34;: &#34;DataCatalog&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;distribution&#34;: [
+    {
+      &#34;@type&#34;: &#34;DataDownload&#34;,
+      &#34;encodingFormat&#34;: &#34;text/csv&#34;,
+      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/s/aftvxm26sa020hf/Sentometrics_Belgium_EPU.csv?dl=1&#34;
+    }
+  ]
+}
+&lt;/script&gt;
 </description>
     </item>
     
@@ -267,6 +366,56 @@ risk associated with its use.&lt;/p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
 
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
+&lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
+     Search rather than only through the paper. Goldmark passes raw HTML through
+     (unsafe = true); JSON-LD is valid anywhere in the document. --&gt;
+&lt;script type=&#34;application/ld+json&#34;&gt;
+{
+  &#34;@context&#34;: &#34;https://schema.org/&#34;,
+  &#34;@type&#34;: &#34;Dataset&#34;,
+  &#34;name&#34;: &#34;Economic Policy Uncertainty Index for Quebec&#34;,
+  &#34;description&#34;: &#34;Monthly economic policy uncertainty index for the Canadian province of Quebec, built from French-Canadian newspaper archives and spanning a century. Uses a token-distance-based triple detection and a dynamic normalisation across sources to handle historical archives digitised by edition rather than by article.&#34;,
+  &#34;url&#34;: &#34;https://sentometrics-research.com/download/epu-quebec/&#34;,
+  &#34;sameAs&#34;: &#34;https://doi.org/10.1016/j.econlet.2021.109938&#34;,
+  &#34;license&#34;: &#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34;,
+  &#34;isAccessibleForFree&#34;: true,
+  &#34;keywords&#34;: [
+    &#34;economic policy uncertainty&#34;,
+    &#34;textual analysis&#34;,
+    &#34;newspaper archives&#34;,
+    &#34;Quebec&#34;,
+    &#34;macroeconomics&#34;
+  ],
+  &#34;temporalCoverage&#34;: &#34;1913/2020&#34;,
+  &#34;spatialCoverage&#34;: {
+    &#34;@type&#34;: &#34;Place&#34;,
+    &#34;name&#34;: &#34;Quebec, Canada&#34;
+  },
+  &#34;creator&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;publisher&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;citation&#34;: &#34;Ardia, D., Bluteau, K., Kassem, A. (2021). A century of economic policy uncertainty through the French-Canadian lens. Economics Letters, 205, 109938.&#34;,
+  &#34;includedInDataCatalog&#34;: {
+    &#34;@type&#34;: &#34;DataCatalog&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;distribution&#34;: [
+    {
+      &#34;@type&#34;: &#34;DataDownload&#34;,
+      &#34;encodingFormat&#34;: &#34;text/csv&#34;,
+      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/s/37vl8pagi2ztoah/Sentometrics_EPU_QUEBEC.csv?dl=1&#34;
+    }
+  ]
+}
+&lt;/script&gt;
 </description>
     </item>
     
@@ -336,6 +485,56 @@ risk associated with its use.&lt;/p&gt;
 &lt;a href=&#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download the data&lt;/strong&gt;&lt;/a&gt; ·
 
 &lt;a href=&#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full licence&lt;/a&gt;&lt;/p&gt;
+&lt;!-- schema.org/Dataset markup, so the index is discoverable in Google Dataset
+     Search rather than only through the paper. Goldmark passes raw HTML through
+     (unsafe = true); JSON-LD is valid anywhere in the document. --&gt;
+&lt;script type=&#34;application/ld+json&#34;&gt;
+{
+  &#34;@context&#34;: &#34;https://schema.org/&#34;,
+  &#34;@type&#34;: &#34;Dataset&#34;,
+  &#34;name&#34;: &#34;U.S. Topical Economic Sentiment Indices&#34;,
+  &#34;description&#34;: &#34;Daily sentiment indices for topics relevant to the U.S. economy, computed from a large news corpus with several lexicon-based methods. The empirical output of a sparse forecasting approach that generates thousands of candidate sentiment indices and selects those that forecast.&#34;,
+  &#34;url&#34;: &#34;https://sentometrics-research.com/download/us-econ/&#34;,
+  &#34;sameAs&#34;: &#34;https://doi.org/10.1016/j.ijforecast.2018.10.010&#34;,
+  &#34;license&#34;: &#34;https://www.dropbox.com/s/jwjh4b08zvq09nv/LICENSE.txt?dl=0&#34;,
+  &#34;isAccessibleForFree&#34;: true,
+  &#34;keywords&#34;: [
+    &#34;textual sentiment&#34;,
+    &#34;news&#34;,
+    &#34;economic growth&#34;,
+    &#34;forecasting&#34;,
+    &#34;United States&#34;
+  ],
+  &#34;temporalCoverage&#34;: &#34;1996/2016&#34;,
+  &#34;spatialCoverage&#34;: {
+    &#34;@type&#34;: &#34;Place&#34;,
+    &#34;name&#34;: &#34;United States&#34;
+  },
+  &#34;creator&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;publisher&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;citation&#34;: &#34;Ardia, D., Bluteau, K., Boudt, K. (2019). Questioning the news about economic growth: Sparse forecasting using thousands of news-based sentiment values. International Journal of Forecasting, 35(4), 1370–1386.&#34;,
+  &#34;includedInDataCatalog&#34;: {
+    &#34;@type&#34;: &#34;DataCatalog&#34;,
+    &#34;name&#34;: &#34;Sentometrics Research&#34;,
+    &#34;url&#34;: &#34;https://sentometrics-research.com&#34;
+  },
+  &#34;distribution&#34;: [
+    {
+      &#34;@type&#34;: &#34;DataDownload&#34;,
+      &#34;encodingFormat&#34;: &#34;text/csv&#34;,
+      &#34;contentUrl&#34;: &#34;https://www.dropbox.com/s/9rdmbtdkgqg9uqt/Sentometrics_US_Topical_Economic_Sentiment.csv?dl=1&#34;
+    }
+  ]
+}
+&lt;/script&gt;
 </description>
     </item>
     

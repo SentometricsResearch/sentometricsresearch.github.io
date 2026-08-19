@@ -5,9 +5,9 @@
     <link>/author/wouter-torsin/</link>
       <atom:link href="/author/wouter-torsin/index.xml" rel="self" type="application/rss+xml" />
     <description>Wouter Torsin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2026 Sentometrics Research &amp;middot; [How to cite](/cite/)</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/img/sentometrics-logo-full.png</url>
       <title>Wouter Torsin</title>
       <link>/author/wouter-torsin/</link>
     </image>
