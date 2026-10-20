@@ -5,7 +5,7 @@
     <link>/download/</link>
       <atom:link href="/download/index.xml" rel="self" type="application/rss+xml" />
     <description>Downloads</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2026 Sentometrics Research &amp;middot; [How to cite](/cite/)</copyright><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2026 Sentometrics Research &amp;middot; [How to cite](/cite/)</copyright><lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/sentometrics-logo-full.png</url>
       <title>Downloads</title>
@@ -15,7 +15,7 @@
     <item>
       <title>MCCC</title>
       <link>/download/mccc/</link>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid>/download/mccc/</guid>
       <description>
 &lt;figure class=&#34;index-chart-wrap&#34;&gt;
@@ -50,7 +50,7 @@ unexpectedly.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;January 2003 – June 2025&lt;/td&gt;
+&lt;td&gt;January 2003 – June 2026&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
@@ -115,6 +115,12 @@ you actually used.&lt;/p&gt;
 &lt;td&gt;unchanged&lt;/td&gt;
 &lt;td&gt;No methodological change.&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6 — 2026 update&lt;/td&gt;
+&lt;td&gt;2003 – Jun 2026&lt;/td&gt;
+&lt;td&gt;unchanged&lt;/td&gt;
+&lt;td&gt;No methodological change.&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;The methodological break sits between vintages 2 and 3, and the table above records what changed.
@@ -133,12 +139,12 @@ risk associated with its use.&lt;/p&gt;
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sentometrics-research.com/data/mccc/mccc-2025-update-daily.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;mccc-2025-update-daily.csv.gz&lt;/code&gt;&lt;/a&gt; — 2025 vintage, daily&lt;/li&gt;
+&lt;a href=&#34;https://sentometrics-research.com/data/mccc/mccc-2026-update-daily.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;mccc-2026-update-daily.csv.gz&lt;/code&gt;&lt;/a&gt; — 2026 vintage, daily&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sentometrics-research.com/data/mccc/mccc-2025-update-monthly.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;mccc-2025-update-monthly.csv.gz&lt;/code&gt;&lt;/a&gt; — 2025 vintage, monthly&lt;/li&gt;
+&lt;a href=&#34;https://sentometrics-research.com/data/mccc/mccc-2026-update-monthly.csv.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;mccc-2026-update-monthly.csv.gz&lt;/code&gt;&lt;/a&gt; — 2026 vintage, monthly&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Gzipped CSV, one header row, ISO 8601 dates. No decompression step needed:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;read.csv(gzfile(url(&amp;quot;https://sentometrics-research.com/data/mccc/mccc-2025-update-daily.csv.gz&amp;quot;)))
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;read.csv(gzfile(url(&amp;quot;https://sentometrics-research.com/data/mccc/mccc-2026-update-daily.csv.gz&amp;quot;)))
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;See the 
 &lt;a href=&#34;https://sentometrics-research.com/data/mccc/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folder README&lt;/a&gt; for every column, and
@@ -170,7 +176,7 @@ risk associated with its use.&lt;/p&gt;
     &#34;green stocks&#34;,
     &#34;sentometrics&#34;
   ],
-  &#34;temporalCoverage&#34;: &#34;2003-01/2025-06&#34;,
+  &#34;temporalCoverage&#34;: &#34;2003-01/2026-06&#34;,
   &#34;spatialCoverage&#34;: {
     &#34;@type&#34;: &#34;Place&#34;,
     &#34;name&#34;: &#34;United States&#34;
@@ -195,7 +201,7 @@ risk associated with its use.&lt;/p&gt;
     {
       &#34;@type&#34;: &#34;DataDownload&#34;,
       &#34;encodingFormat&#34;: &#34;application/gzip&#34;,
-      &#34;contentUrl&#34;: &#34;https://sentometrics-research.com/data/mccc/mccc-2025-update-daily.csv.gz&#34;
+      &#34;contentUrl&#34;: &#34;https://sentometrics-research.com/data/mccc/mccc-2026-update-daily.csv.gz&#34;
     }
   ]
 }
